@@ -1,0 +1,2515 @@
+fileFormatVersion: 2
+guid: c5601409d39992e41b65b9b44bb02bd9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be567131bdc71fc4db7d6f36776f9667
+      internalID: 450617906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4907b823b7c0fb74db3d11bf9be4c4cb
+      internalID: -1056528177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a0ec520c84b540a8ecfc09e34fd7a
+      internalID: -518374038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f9e483810b880458dd4ce4ffd8e112
+      internalID: -423311949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d20ef8fcab76ef469278ce84661b94a
+      internalID: 1272883277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7428a8d7e35624182ccff6a2877840
+      internalID: -995182647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac42e28eb35ae6448519ca99ade78b3
+      internalID: 30716798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cae6e71fb52a3f46916bd5c1c3c8abc
+      internalID: 511291566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde71ef7dba982c4f89e3e71791220df
+      internalID: 530095526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be604db05adbf48b8a845f11e6b943
+      internalID: -822398660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4b138bcfdd0ee418a96e82c33a09b8
+      internalID: -1736944389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05da4f9fbc5cf714997f908abca6f3d5
+      internalID: 1767389061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7cb28989f8e64489cb6d9bdbf4107d
+      internalID: 1215818100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e8baf952cc3f54ab75c0342b6509cf
+      internalID: 521199896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119e99d459856d74bacf51e682ab162e
+      internalID: -1310712305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e64b868984a01345bf09ac60feb2583
+      internalID: -987616587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea82b45aeca17f4b8aef320eedaa658
+      internalID: 282599350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee0de05682a73144bbaf5ac9656b4f6
+      internalID: -718374422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2dc85872c9d54fb0034150ff04fa6
+      internalID: -425969903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf50a6c51623ec4196da92f35bb2da5
+      internalID: 733084678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e019e42947f0d1949826bde429a1c6be
+      internalID: -136208091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12cb6d686fa53e4686417b24fd2f82a
+      internalID: -814646883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b98ddcbf8aafd14da369153b360a257
+      internalID: -1656270038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a530ffd3270c74547927c9018821bdb6
+      internalID: -1228736381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4233d2771ea745c4b8f2ad5f7066fcbc
+      internalID: 453034869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa3d49541759494987c141551c3c4fc
+      internalID: 1834233458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d4fe9e1d45dfe4dba4b7231682f55d
+      internalID: -754857344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb170f6c5aa3eb040970eddf35dae584
+      internalID: -498103067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a4b76f8992f43489ac7cd3247a1f5c
+      internalID: -2033745688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680cb31b7cc4e00489e1467414d63d54
+      internalID: 1809671752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c959cd817b4e42928912e9810f548
+      internalID: 766120686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1861f1d1184c3469db1d64dfda5c70
+      internalID: 79278821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c22736555c4fa94087897a415b96d31
+      internalID: 1319152905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781e2a9f1706692469a7b49bbde7c3a9
+      internalID: -446492929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82af1cf1555e094aab85d9f43ebda15
+      internalID: 837044980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e103ea53bfa2fb64f87b86c53c6ce3d3
+      internalID: -798529123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76751bdfaa9a0cd4caa83398392d4936
+      internalID: -1884932562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32994629ef2f67b4cb597a53be1e1813
+      internalID: -299550226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13b96b51bbedc74fb148f0efd021fbe
+      internalID: 998173854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01125bc0c92139748b78d5f969d5a0b7
+      internalID: -974943358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vien
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244be6dcf138f249a1d28dcccf9ab66
+      internalID: 847435392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b6eacb2ceebf14a846e5928b8d7651
+      internalID: 39193018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab76a78cc7d15854ca15a83eea16746c
+      internalID: -210529284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850eac8ec90365546bb196e68e986ea6
+      internalID: 1988233042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0e3cb27406584687e8ce4ad64b694
+      internalID: 1427214990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c3bae3dbb71249ab0a3badb7f0d5d
+      internalID: 1798696007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fffc204879f8142a48c1a4a3f98247
+      internalID: 953058666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d1a60a8411a4448840685d6440c850
+      internalID: 1699398335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb5a428e5ebf6479a5017e400ce463
+      internalID: 1882809033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396753087b71ff4bb93c2c124383eb3
+      internalID: -18282842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a815f2912614844aa157c9262c0924
+      internalID: -1923836086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5509e7a7e1ae50749831584ef67bc29f
+      internalID: -1716965267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b8cd62a03fa904687b7e1a596fda85
+      internalID: -1181831994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66566de5d7723384899baba0821c8fde
+      internalID: 712250571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c62e17a926ce74e832bd8751d6d714
+      internalID: 3276405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375733485ec9a174984da52fbe631dfb
+      internalID: 260830412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3112e1f6abdae45890bde12c581480
+      internalID: -679839710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad654c5f733aa67458d87a3b9a188750
+      internalID: 1633254205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c135491aa49d41973e43ab650b9aa
+      internalID: 314843509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca229cefaaf75748b24ddd54d962cc4
+      internalID: 1208973353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecb2e24c8528be41af89944af8fc1cc
+      internalID: 1794335128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be82415d40f46d344894b10a4b3562f3
+      internalID: 1115815259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1096221d6baaf144a3657fed8779440
+      internalID: 1460928087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a052b8c267f9894ead68929e035210b
+      internalID: -95225122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba9c7f3ea9cf0248b5375a39a849329
+      internalID: 1468365141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aafc36cfa84d4c458825b77e92cf6e8
+      internalID: 386290358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d2d6d88be7ae243a172e51cc974391
+      internalID: 2099429537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b360c4f36316541b15a9d46f2f7f55
+      internalID: -879749152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c56793766f82d4e81a466ff767702b
+      internalID: -1316988926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5a139dc6aa2414cb68f945d870ed49
+      internalID: -1000056463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d43debbbcdedd44b8ca58bcb7fafd8
+      internalID: 1294952098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc09c5b60bdf08b49a0de70876eba79e
+      internalID: -555966219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624f64dc43bb41d46a8e75f3c8be45eb
+      internalID: 1847582120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5203af343275a8c41914b5bec7f3bd56
+      internalID: -711500621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1596887d3b65c224b9486f88787328e0
+      internalID: 353732462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0183586782c308e4e9abf39cf4a9b16e
+      internalID: 1058188545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bbcc2cc1ce2544eb27f50eb453ea17
+      internalID: -872025714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e08ea62dbb05c64e9482f78e2314a44
+      internalID: 889638523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba31555fff7211428ecb6152e78645b
+      internalID: 1330620678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7982b162a27e2488e4b9ffb38f3d3b
+      internalID: -1553605215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5402cf7312eaf0a4a87b40a768ce1cbc
+      internalID: 1227148964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b746f63ac5121a458319adbd976dfa4
+      internalID: 939453295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c59656533fa204da87aea9ac59210a
+      internalID: -546640461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9b0cbc1c38ebc4ba9f713444c3d57b
+      internalID: -609316784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ad1036ee264fb4eb16976f4454380a
+      internalID: 2067338134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb805e0fe60675a4fa218475d17bf297
+      internalID: -2038981417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2a76fa011d9554bbe64c8f7eeabf5c
+      internalID: -1612609434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a645089d8b4c664e8248adb670eb7a7
+      internalID: 1486512700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd5e6a3a10d9c541a9196ff8f54c7ed
+      internalID: 2113539358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781fac10f16499f46b3506ec2ad95b0c
+      internalID: 1868602232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a342411795c20a747be37248653a57d6
+      internalID: 298832110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3c7ea701e7aae4295e73723b3f3bed
+      internalID: -1838249150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333e38da97665fa43880926aee0b20b8
+      internalID: 472562303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c366d914fd7854f80b7afd69ff4268
+      internalID: 55418773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3610751075fe7fe43967b66194ca9421
+      internalID: 1409072622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adce27ed634f16c4c8687abf47de47c9
+      internalID: 596149772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aad5dea2c7f8da4b981be768ae0df21
+      internalID: -346411132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd0a42e27a25344a8ec5e673d910697
+      internalID: 1432769718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38915fa815fb1954aaa7e75c30134ce0
+      internalID: -941311929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b77481039b4524196b2df71cd48324
+      internalID: 1288440379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d14ca334e35614592b294f57e3bef4
+      internalID: 1342307117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Farmhouse (1)_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a1c7aa1407c32468569a5c0b055189
+      internalID: 1099040526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 181
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea8061c4ac70994dbfe9ba3bf12fbc3
+      internalID: -659576852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -1612609434
+      10: -1656270038
+      11: -1228736381
+      12: -798529123
+      13: 596149772
+      14: -346411132
+      15_1: -911412072
+      15_2: -1020723545
+      2: -1553605215
+      3: 1215818100
+      4: 521199896
+      5: -1056528177
+      6: -518374038
+      7: 530095526
+      8: -822398660
+      9: -1736944389
+      PC Computer - Stardew Valley - Farmhouse (1)_0: 450617906
+      PC Computer - Stardew Valley - Farmhouse (1)_100: 1058188545
+      PC Computer - Stardew Valley - Farmhouse (1)_101: -872025714
+      PC Computer - Stardew Valley - Farmhouse (1)_102: 468544602
+      PC Computer - Stardew Valley - Farmhouse (1)_103: 1279204024
+      PC Computer - Stardew Valley - Farmhouse (1)_104: -1949287451
+      PC Computer - Stardew Valley - Farmhouse (1)_105: 1564297514
+      PC Computer - Stardew Valley - Farmhouse (1)_106: 889638523
+      PC Computer - Stardew Valley - Farmhouse (1)_107: 1330620678
+      PC Computer - Stardew Valley - Farmhouse (1)_109: 1227148964
+      PC Computer - Stardew Valley - Farmhouse (1)_11: 1767389061
+      PC Computer - Stardew Valley - Farmhouse (1)_110: 939453295
+      PC Computer - Stardew Valley - Farmhouse (1)_111: 769732352
+      PC Computer - Stardew Valley - Farmhouse (1)_112: -546640461
+      PC Computer - Stardew Valley - Farmhouse (1)_113: -609316784
+      PC Computer - Stardew Valley - Farmhouse (1)_114: -1616871407
+      PC Computer - Stardew Valley - Farmhouse (1)_115: 217150294
+      PC Computer - Stardew Valley - Farmhouse (1)_116: 1706278835
+      PC Computer - Stardew Valley - Farmhouse (1)_117: 284885252
+      PC Computer - Stardew Valley - Farmhouse (1)_118: 2067338134
+      PC Computer - Stardew Valley - Farmhouse (1)_119: -2038981417
+      PC Computer - Stardew Valley - Farmhouse (1)_121: 1486512700
+      PC Computer - Stardew Valley - Farmhouse (1)_122: 2113539358
+      PC Computer - Stardew Valley - Farmhouse (1)_123: 1919886519
+      PC Computer - Stardew Valley - Farmhouse (1)_124: 1868602232
+      PC Computer - Stardew Valley - Farmhouse (1)_125: 298832110
+      PC Computer - Stardew Valley - Farmhouse (1)_126: -1838249150
+      PC Computer - Stardew Valley - Farmhouse (1)_127: 472562303
+      PC Computer - Stardew Valley - Farmhouse (1)_128: -1169735843
+      PC Computer - Stardew Valley - Farmhouse (1)_129: 1528681141
+      PC Computer - Stardew Valley - Farmhouse (1)_130: 55418773
+      PC Computer - Stardew Valley - Farmhouse (1)_131: 1409072622
+      PC Computer - Stardew Valley - Farmhouse (1)_134: 1432769718
+      PC Computer - Stardew Valley - Farmhouse (1)_135: 423529890
+      PC Computer - Stardew Valley - Farmhouse (1)_136: -941311929
+      PC Computer - Stardew Valley - Farmhouse (1)_137: 1288440379
+      PC Computer - Stardew Valley - Farmhouse (1)_138: 1737076559
+      PC Computer - Stardew Valley - Farmhouse (1)_139: 1867605169
+      PC Computer - Stardew Valley - Farmhouse (1)_14: -1310712305
+      PC Computer - Stardew Valley - Farmhouse (1)_140: -1447339166
+      PC Computer - Stardew Valley - Farmhouse (1)_141: -299309063
+      PC Computer - Stardew Valley - Farmhouse (1)_142: -1020753909
+      PC Computer - Stardew Valley - Farmhouse (1)_143: -363829963
+      PC Computer - Stardew Valley - Farmhouse (1)_144: -334327269
+      PC Computer - Stardew Valley - Farmhouse (1)_145: -941259845
+      PC Computer - Stardew Valley - Farmhouse (1)_146: -1759230139
+      PC Computer - Stardew Valley - Farmhouse (1)_147: -148931207
+      PC Computer - Stardew Valley - Farmhouse (1)_148: -1736663470
+      PC Computer - Stardew Valley - Farmhouse (1)_149: -1965804020
+      PC Computer - Stardew Valley - Farmhouse (1)_15: -987616587
+      PC Computer - Stardew Valley - Farmhouse (1)_150: -170975320
+      PC Computer - Stardew Valley - Farmhouse (1)_151: 1812014958
+      PC Computer - Stardew Valley - Farmhouse (1)_152: 1466638221
+      PC Computer - Stardew Valley - Farmhouse (1)_153: 332060753
+      PC Computer - Stardew Valley - Farmhouse (1)_154: -1705549623
+      PC Computer - Stardew Valley - Farmhouse (1)_155: -1978464721
+      PC Computer - Stardew Valley - Farmhouse (1)_156: 757612795
+      PC Computer - Stardew Valley - Farmhouse (1)_157: -1458299765
+      PC Computer - Stardew Valley - Farmhouse (1)_158: -64628028
+      PC Computer - Stardew Valley - Farmhouse (1)_159: -1680713830
+      PC Computer - Stardew Valley - Farmhouse (1)_16: 282599350
+      PC Computer - Stardew Valley - Farmhouse (1)_160: 2087483215
+      PC Computer - Stardew Valley - Farmhouse (1)_161: -11553266
+      PC Computer - Stardew Valley - Farmhouse (1)_162: 292478367
+      PC Computer - Stardew Valley - Farmhouse (1)_163: -860829175
+      PC Computer - Stardew Valley - Farmhouse (1)_164: -1332127606
+      PC Computer - Stardew Valley - Farmhouse (1)_165: -1743837978
+      PC Computer - Stardew Valley - Farmhouse (1)_166: 485685412
+      PC Computer - Stardew Valley - Farmhouse (1)_167: -971523201
+      PC Computer - Stardew Valley - Farmhouse (1)_168: 1314394479
+      PC Computer - Stardew Valley - Farmhouse (1)_169: -1328549173
+      PC Computer - Stardew Valley - Farmhouse (1)_17: -718374422
+      PC Computer - Stardew Valley - Farmhouse (1)_170: 1988736009
+      PC Computer - Stardew Valley - Farmhouse (1)_171: -1679998903
+      PC Computer - Stardew Valley - Farmhouse (1)_172: 624884523
+      PC Computer - Stardew Valley - Farmhouse (1)_173: -792297661
+      PC Computer - Stardew Valley - Farmhouse (1)_174: -392819011
+      PC Computer - Stardew Valley - Farmhouse (1)_175: 336625033
+      PC Computer - Stardew Valley - Farmhouse (1)_176: -1954909110
+      PC Computer - Stardew Valley - Farmhouse (1)_177: 750132192
+      PC Computer - Stardew Valley - Farmhouse (1)_178: 1290404424
+      PC Computer - Stardew Valley - Farmhouse (1)_179: 1740842348
+      PC Computer - Stardew Valley - Farmhouse (1)_18: -425969903
+      PC Computer - Stardew Valley - Farmhouse (1)_180: 1174268970
+      PC Computer - Stardew Valley - Farmhouse (1)_181: 1342307117
+      PC Computer - Stardew Valley - Farmhouse (1)_182: 1275035720
+      PC Computer - Stardew Valley - Farmhouse (1)_183: -682870706
+      PC Computer - Stardew Valley - Farmhouse (1)_184: 492588042
+      PC Computer - Stardew Valley - Farmhouse (1)_185: 734818863
+      PC Computer - Stardew Valley - Farmhouse (1)_186: -1369237215
+      PC Computer - Stardew Valley - Farmhouse (1)_187: 1824609315
+      PC Computer - Stardew Valley - Farmhouse (1)_188: 132259276
+      PC Computer - Stardew Valley - Farmhouse (1)_189: -181767444
+      PC Computer - Stardew Valley - Farmhouse (1)_19: 733084678
+      PC Computer - Stardew Valley - Farmhouse (1)_190: 731915599
+      PC Computer - Stardew Valley - Farmhouse (1)_191: -115105862
+      PC Computer - Stardew Valley - Farmhouse (1)_192: -1414704810
+      PC Computer - Stardew Valley - Farmhouse (1)_193: 298054589
+      PC Computer - Stardew Valley - Farmhouse (1)_194: 839371284
+      PC Computer - Stardew Valley - Farmhouse (1)_195: 1247378076
+      PC Computer - Stardew Valley - Farmhouse (1)_196: -1864354972
+      PC Computer - Stardew Valley - Farmhouse (1)_197: 412555290
+      PC Computer - Stardew Valley - Farmhouse (1)_198: -1236365452
+      PC Computer - Stardew Valley - Farmhouse (1)_199: -627438334
+      PC Computer - Stardew Valley - Farmhouse (1)_20: -136208091
+      PC Computer - Stardew Valley - Farmhouse (1)_200: -1220046076
+      PC Computer - Stardew Valley - Farmhouse (1)_201: -1663741138
+      PC Computer - Stardew Valley - Farmhouse (1)_202: 973944187
+      PC Computer - Stardew Valley - Farmhouse (1)_203: 29024706
+      PC Computer - Stardew Valley - Farmhouse (1)_204: 63452065
+      PC Computer - Stardew Valley - Farmhouse (1)_205: -804919912
+      PC Computer - Stardew Valley - Farmhouse (1)_206: 2018230868
+      PC Computer - Stardew Valley - Farmhouse (1)_207: 1679887469
+      PC Computer - Stardew Valley - Farmhouse (1)_208: -1116773764
+      PC Computer - Stardew Valley - Farmhouse (1)_209: 926924912
+      PC Computer - Stardew Valley - Farmhouse (1)_21: -814646883
+      PC Computer - Stardew Valley - Farmhouse (1)_210: 1256401437
+      PC Computer - Stardew Valley - Farmhouse (1)_211: 631286673
+      PC Computer - Stardew Valley - Farmhouse (1)_212: -1156341235
+      PC Computer - Stardew Valley - Farmhouse (1)_213: 1343715339
+      PC Computer - Stardew Valley - Farmhouse (1)_214: 1787640673
+      PC Computer - Stardew Valley - Farmhouse (1)_215: 104663628
+      PC Computer - Stardew Valley - Farmhouse (1)_216: 1312114675
+      PC Computer - Stardew Valley - Farmhouse (1)_217: 1499772609
+      PC Computer - Stardew Valley - Farmhouse (1)_218: 1186833632
+      PC Computer - Stardew Valley - Farmhouse (1)_219: -270785355
+      PC Computer - Stardew Valley - Farmhouse (1)_220: -1482674100
+      PC Computer - Stardew Valley - Farmhouse (1)_221: -1813983134
+      PC Computer - Stardew Valley - Farmhouse (1)_222: -73650354
+      PC Computer - Stardew Valley - Farmhouse (1)_223: 1082044620
+      PC Computer - Stardew Valley - Farmhouse (1)_224: -1115735617
+      PC Computer - Stardew Valley - Farmhouse (1)_225: -1943959072
+      PC Computer - Stardew Valley - Farmhouse (1)_226: 1468645795
+      PC Computer - Stardew Valley - Farmhouse (1)_227: -1435509779
+      PC Computer - Stardew Valley - Farmhouse (1)_228: 1205519538
+      PC Computer - Stardew Valley - Farmhouse (1)_229: -990636741
+      PC Computer - Stardew Valley - Farmhouse (1)_230: 27289608
+      PC Computer - Stardew Valley - Farmhouse (1)_231: -581342155
+      PC Computer - Stardew Valley - Farmhouse (1)_232: 1938103623
+      PC Computer - Stardew Valley - Farmhouse (1)_233: 1525194539
+      PC Computer - Stardew Valley - Farmhouse (1)_234: 9756730
+      PC Computer - Stardew Valley - Farmhouse (1)_235: -156631287
+      PC Computer - Stardew Valley - Farmhouse (1)_236: 547496196
+      PC Computer - Stardew Valley - Farmhouse (1)_24: 453034869
+      PC Computer - Stardew Valley - Farmhouse (1)_25: 1834233458
+      PC Computer - Stardew Valley - Farmhouse (1)_26: -754857344
+      PC Computer - Stardew Valley - Farmhouse (1)_27: -498103067
+      PC Computer - Stardew Valley - Farmhouse (1)_28: -2033745688
+      PC Computer - Stardew Valley - Farmhouse (1)_29: 1809671752
+      PC Computer - Stardew Valley - Farmhouse (1)_3: -423311949
+      PC Computer - Stardew Valley - Farmhouse (1)_30: 766120686
+      PC Computer - Stardew Valley - Farmhouse (1)_31: 79278821
+      PC Computer - Stardew Valley - Farmhouse (1)_32: 1319152905
+      PC Computer - Stardew Valley - Farmhouse (1)_33: -446492929
+      PC Computer - Stardew Valley - Farmhouse (1)_34: 837044980
+      PC Computer - Stardew Valley - Farmhouse (1)_36: -1884932562
+      PC Computer - Stardew Valley - Farmhouse (1)_37: -299550226
+      PC Computer - Stardew Valley - Farmhouse (1)_38: 998173854
+      PC Computer - Stardew Valley - Farmhouse (1)_39: -974943358
+      PC Computer - Stardew Valley - Farmhouse (1)_4: 1272883277
+      PC Computer - Stardew Valley - Farmhouse (1)_41: 39193018
+      PC Computer - Stardew Valley - Farmhouse (1)_42: -210529284
+      PC Computer - Stardew Valley - Farmhouse (1)_43: 1988233042
+      PC Computer - Stardew Valley - Farmhouse (1)_44: 1427214990
+      PC Computer - Stardew Valley - Farmhouse (1)_45: 1798696007
+      PC Computer - Stardew Valley - Farmhouse (1)_46: 953058666
+      PC Computer - Stardew Valley - Farmhouse (1)_47: 1699398335
+      PC Computer - Stardew Valley - Farmhouse (1)_48: 1882809033
+      PC Computer - Stardew Valley - Farmhouse (1)_49: -18282842
+      PC Computer - Stardew Valley - Farmhouse (1)_5: -995182647
+      PC Computer - Stardew Valley - Farmhouse (1)_50: -1923836086
+      PC Computer - Stardew Valley - Farmhouse (1)_51: -1716965267
+      PC Computer - Stardew Valley - Farmhouse (1)_52: -1181831994
+      PC Computer - Stardew Valley - Farmhouse (1)_53: 712250571
+      PC Computer - Stardew Valley - Farmhouse (1)_54: 3276405
+      PC Computer - Stardew Valley - Farmhouse (1)_55: 260830412
+      PC Computer - Stardew Valley - Farmhouse (1)_56: -679839710
+      PC Computer - Stardew Valley - Farmhouse (1)_57: 1633254205
+      PC Computer - Stardew Valley - Farmhouse (1)_58: 314843509
+      PC Computer - Stardew Valley - Farmhouse (1)_59: 1208973353
+      PC Computer - Stardew Valley - Farmhouse (1)_6: 30716798
+      PC Computer - Stardew Valley - Farmhouse (1)_60: 1794335128
+      PC Computer - Stardew Valley - Farmhouse (1)_61: 1099040526
+      PC Computer - Stardew Valley - Farmhouse (1)_64: 2083645804
+      PC Computer - Stardew Valley - Farmhouse (1)_65: 254376949
+      PC Computer - Stardew Valley - Farmhouse (1)_66: 108244748
+      PC Computer - Stardew Valley - Farmhouse (1)_67: 1613772681
+      PC Computer - Stardew Valley - Farmhouse (1)_68: 1552938719
+      PC Computer - Stardew Valley - Farmhouse (1)_69: -1828929018
+      PC Computer - Stardew Valley - Farmhouse (1)_7: 511291566
+      PC Computer - Stardew Valley - Farmhouse (1)_70: 1115815259
+      PC Computer - Stardew Valley - Farmhouse (1)_71: 1460928087
+      PC Computer - Stardew Valley - Farmhouse (1)_72: -95225122
+      PC Computer - Stardew Valley - Farmhouse (1)_73: 1796576171
+      PC Computer - Stardew Valley - Farmhouse (1)_74: 4519928
+      PC Computer - Stardew Valley - Farmhouse (1)_75: 577861967
+      PC Computer - Stardew Valley - Farmhouse (1)_76: -500722464
+      PC Computer - Stardew Valley - Farmhouse (1)_77: -1065103395
+      PC Computer - Stardew Valley - Farmhouse (1)_78: -579818635
+      PC Computer - Stardew Valley - Farmhouse (1)_79: -1021399565
+      PC Computer - Stardew Valley - Farmhouse (1)_80: -451920883
+      PC Computer - Stardew Valley - Farmhouse (1)_81: 501575810
+      PC Computer - Stardew Valley - Farmhouse (1)_82: 1468365141
+      PC Computer - Stardew Valley - Farmhouse (1)_83: 386290358
+      PC Computer - Stardew Valley - Farmhouse (1)_84: 2099429537
+      PC Computer - Stardew Valley - Farmhouse (1)_85: -879749152
+      PC Computer - Stardew Valley - Farmhouse (1)_86: -1316988926
+      PC Computer - Stardew Valley - Farmhouse (1)_87: 933730905
+      PC Computer - Stardew Valley - Farmhouse (1)_88: 422242311
+      PC Computer - Stardew Valley - Farmhouse (1)_89: -183994763
+      PC Computer - Stardew Valley - Farmhouse (1)_90: 12655511
+      PC Computer - Stardew Valley - Farmhouse (1)_91: -1000056463
+      PC Computer - Stardew Valley - Farmhouse (1)_92: 1669539197
+      PC Computer - Stardew Valley - Farmhouse (1)_93: -225121016
+      PC Computer - Stardew Valley - Farmhouse (1)_94: 1294952098
+      PC Computer - Stardew Valley - Farmhouse (1)_95: -555966219
+      PC Computer - Stardew Valley - Farmhouse (1)_96: 1847582120
+      PC Computer - Stardew Valley - Farmhouse (1)_97: -711500621
+      PC Computer - Stardew Valley - Farmhouse (1)_98: 353732462
+      PC Computer - Stardew Valley - Farmhouse (1)_99: -202133037
+      bed: -659576852
+      vien: 847435392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

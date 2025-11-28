@@ -1,0 +1,49 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[RequireComponent(typeof(BoxCollider2D))]
+
+public class TreeCuttable : ToolHit
+{
+    [SerializeField] GameObject pickUpDrop;
+    [SerializeField] float spread = 0.7f;
+
+    [SerializeField] Item item;
+    [SerializeField] int itemCountInOneDrop = 1;
+    [SerializeField] int dropCount = 5;
+    [SerializeField] ResourceNodeType nodeType;
+    [SerializeField] AudioClip hitSound;
+
+    public override void Hit()
+    {
+        if (hitSound != null && AudioManager.instance != null)
+        {
+            AudioManager.instance.Play(hitSound);
+        }
+
+        while (dropCount > 0)
+        {
+            dropCount -= 1;
+
+            Vector3 position = transform.position;
+            position.x += spread * UnityEngine.Random.value - spread / 2;
+            position.y += spread * UnityEngine.Random.value - spread / 2;
+            
+            ItemSpawnManager.instance.SpawnItem(position, item, itemCountInOneDrop);
+        }
+
+        SpawnedObject spawnedObject = GetComponent<SpawnedObject>();
+        if(spawnedObject != null)
+        {
+            spawnedObject.SpawnedObjectDestroyed();
+        }
+
+        Destroy(gameObject);
+    }  
+    
+    public override bool CanBeHit(List<ResourceNodeType> canBeHit)
+    {
+        return canBeHit.Contains(nodeType);
+    }
+}

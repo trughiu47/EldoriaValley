@@ -1,0 +1,3282 @@
+fileFormatVersion: 2
+guid: e9cc67201cccf6d48845a844397c335d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e92c04ff421db94489e1ea8f8abb94e
+      internalID: -984500900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fd6ddaed594e54fbbf126f077aac6a
+      internalID: 1801595698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d276cb40620da3c4fbe79e24a0babf72
+      internalID: 1588911206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bc5304db44dbb48ada4d847fcaa729
+      internalID: 1803377155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f16582d7560c641b30f35a5bc9cdbd
+      internalID: 758303394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bc93110761c404391b7152aa30f845
+      internalID: -6808584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75806dc2803a4b4aa5a97ed0d37f0aa
+      internalID: -546266814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0e9a37d28666a43a1b4bd0cb793bae
+      internalID: 539722173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79fca6de1fdd1144845d9a7bbdd0894
+      internalID: 601162030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b324b1dfbffcd94297cb69ee83a9531
+      internalID: -1268791607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb886bc547dce143ab7baa23d408f6d
+      internalID: 1073427836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 721
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0600198adbdd0904a99b4d306b523198
+      internalID: -345739919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449ae08c56354d1408816dd08e066480
+      internalID: -605817519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a4e77fbc0dbfc409b5b4146e3ab98a
+      internalID: -122235464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00569fc8c42b324ba162229ea2dc373
+      internalID: 1210793229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b644205a3db1e459a38b88cabc53fa
+      internalID: -1605444120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212026f128b8a3645bad3d82dca3c579
+      internalID: 1997421460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c6abf472a75142901aec5663159e4
+      internalID: -1266656469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da75a73e93a86774787b0fac806d92ab
+      internalID: 911508547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd63794ee4a1424b98199e077959525
+      internalID: 1065278068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc49887dbc6b1048adfadeed81639ff
+      internalID: -1938243309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd2d6ecf063e734895f76d732a158b3
+      internalID: 355154867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_22
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1160e59937648642b92da88bdd43292
+      internalID: 858513079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 656
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277e1ffca7e023543b0b34f8ca2acc27
+      internalID: -441526709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653b1690ea9c2d1408fefa430188b03b
+      internalID: -1772700960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c2bc4c74cf72f42903c3cec165a544
+      internalID: 117793237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed42f3e0ac6c824d91fca355a03b849
+      internalID: -487436457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b517bec0dc13ce74b871669ad398bcef
+      internalID: 1223271184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14592dc02e9972428821d3fc00e87d0
+      internalID: -2016457699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883fa1498a9565844874431d8355ffd3
+      internalID: 2016519884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10d9a6c06d44b0448cd0e44cf6c946d
+      internalID: 1134213854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1244a2ccfbada4445b2af04ab35bd4ab
+      internalID: 728083432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74037d247983d04f9d39381155a44b6
+      internalID: 2033057098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_33
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bba074655807247b3f429fbca1746d
+      internalID: -1082665336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_34
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b604abf517908b4487506a6ff8664f7
+      internalID: -1885274790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_35
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 591
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8af815d9ab69749bce8ac01486f107
+      internalID: 46992567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdefa1114f76c68449e92f4de3309bc6
+      internalID: -1368609663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95aadb48797c284c9640411bfd78fca
+      internalID: 1937821996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38341d8a39e2e84680f65f2b9411ca9
+      internalID: 495839308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8551cba36a8ed14f92ae4d1b4f3b84f
+      internalID: 894927224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be9ee1678d74141a9e99d1b0a2e81f
+      internalID: -668406536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2f0f88dc077c448bb6c9b4ac3a8681
+      internalID: -931299208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2fae397e1c5bd48b9ea131f9db0b03
+      internalID: -2056222223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b8ef5d062b8f74ab6f282105e697cb
+      internalID: -537286724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_44
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cfec07913039640a71f594decb3839
+      internalID: -1049542148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_45
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538815569b8628c4287106ba6233208c
+      internalID: -2139086780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_46
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d71a952a3747374a99d61cef1695141
+      internalID: -1803513657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_47
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 526
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdd34b6eee3b76489be1f26c54a35ac
+      internalID: 1293685945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d2edb77de0094a8c91bf9cd44ca92
+      internalID: -1148506994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23640161e8425646a9eebb62c3e5ab3
+      internalID: 2142375700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a4ff66cb924a4a86f9cf66b499e9a
+      internalID: 684758693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded3bf80790b864bb359c5387011769
+      internalID: -1047164954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0076f62c0c26449b1b2b741b4b9bbc
+      internalID: 1282913623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_53
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f446ea2ab4918448915a0b32fa1cf41
+      internalID: 1896296264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_54
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68fdb91b11d4f74ba77124bc7e63eff
+      internalID: 975629355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_55
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69116386d350b74886e772e453dda5a
+      internalID: 1342201309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_56
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67fff55f0b8f1d44adefc0c8d4e4c4e
+      internalID: 1354538540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_57
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846805f1fc5e14342a7ba4a24f06ebb7
+      internalID: 500278833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_58
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6a8af158584ad44bc0d482ea281f66
+      internalID: -1254035249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_59
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 461
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3b147b4014d27469c5322a08dc5a20
+      internalID: 747807804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd66e504f1cd7445b69a6f244a5f37c
+      internalID: 482221745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e226e32b909bbd4ab36caa0c6616992
+      internalID: 1448744839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3597e197225d10f4a899752353fe4182
+      internalID: -336017046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4ba67ae5f7a2e4da417a45ddad544e
+      internalID: -625874452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_64
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6577b5be9302aa54c894bb29ebbc9321
+      internalID: 1350248693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_65
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfbc497cb2e49644901a7c44b94571f
+      internalID: 928071623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_66
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debb15c897e6d7a49bcd0a35ef17f61f
+      internalID: 1041771915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_67
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10801bd029437f248bf702f95772e8c2
+      internalID: 2072969306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_68
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735476051273f944aaf922dee00c3f35
+      internalID: 2068884518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_69
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7b0af12efb2344bb77c7e2d56211b2
+      internalID: -108706907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_70
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6efd87532f319e4da072b0b6a0d41fa
+      internalID: 1620998757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_71
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 396
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e4ca0061138ca4b87aba8a7dba7fb3
+      internalID: 78278303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb6e76fac8ce5944be4e969500b9b8b
+      internalID: -1116319250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_73
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f4508b456e2245a6ce60803ef6bfc
+      internalID: 1771175390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c41256b0ada94b898684fb0064821
+      internalID: -1124001437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_75
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bef9f6f85409f4a88f3b90ec980ae3
+      internalID: -607995099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_76
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06906201fb1c274a81bbe2a75ddd216
+      internalID: -136607843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_77
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b5c55425f7aa548b8509e261fd2d4a
+      internalID: -1896538790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_78
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b248048d73a2dcb4881f9e021b894632
+      internalID: 1547854017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_79
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b76990f8139f84408cbb4e25786ce0a
+      internalID: -581825769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_80
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba59b1f66c64b0478f17c88437b97cc
+      internalID: 1648122986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_81
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec9925c40ecc64eba0ab5834d0470f
+      internalID: -1655745469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_82
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e8a000fb4ae2f49b08ec6d3d15bc3b
+      internalID: -1684179817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_83
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 331
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d448e7e3a1c8c4ab1063ffe63ebb63
+      internalID: 1237416433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a308f9f9be8190b4aa9b0d84dc1ad4ed
+      internalID: -639283218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_85
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f495a633aabc4ca15addd12f3c09d
+      internalID: -668307738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6be1362d844e54f89ec362d0e4e993
+      internalID: 2042930434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_87
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711afd0d032391c4a96be38a6ed43db0
+      internalID: 828313703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_88
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a3618b9d209fb48babdd0c8b6a87e9
+      internalID: -1601475296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_89
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe4760cb4fcd54da7737182749f2bb
+      internalID: -1668871592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_90
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751d42b103cd06f42a54b191b7625001
+      internalID: -1383914526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_91
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55bc9254ffc08f45b3c8c4606500ffd
+      internalID: 1651287958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_92
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75fbf7026b92bc4f8507c42251130b8
+      internalID: 361131969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_93
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88268c7a0543ac4c91dfc87ff61a9b5
+      internalID: -582757787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_94
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c057380497a684c46b1d4d35255f0d81
+      internalID: -1673180551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_95
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 266
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a178c3203c5294b438598b49cea2fb78
+      internalID: 147135018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8aed1c63010a640bb0b7a383a54a7e
+      internalID: -692625004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_97
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2cee4464cbbf24c93ea81de148ee10
+      internalID: -1284191207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_98
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72a0a8c8145ff45beea45374114c5d
+      internalID: 592248794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_99
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c106c6cde832b940b6adca602828a80
+      internalID: 39738501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_100
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c6e1efca362de4e8dbef5263e52540
+      internalID: 837051199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_101
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d07806f283cc5448f826ce00b62d41
+      internalID: -1544459076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_102
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2858dc098c4079d439597db535d9d856
+      internalID: -909990986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_103
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce0d8b032a889c4e80590b697c3bd60
+      internalID: -2001087575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_104
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8406f5670f0844191e123b3c7b254b
+      internalID: -2126003401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_105
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac747221a47e794b802f5e03d432ba1
+      internalID: -2130867687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_106
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6323322ebc76d004e8b872d04f81203b
+      internalID: 1876647815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_107
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 201
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d6157211066744bbb1d97481095a7
+      internalID: 608620460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705350574097eb14b9aa2f6bd59998e8
+      internalID: 503885301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_109
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3078f4e3227d3141ae114ebdcd444e6
+      internalID: 1426778669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_110
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaa5f385a05caa4cb92e18d06915ff7
+      internalID: 1009152686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_111
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239a70bce0710e84da926e1413ea5406
+      internalID: -1455061772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_112
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1953ba37e780ebb40b2a9a2398fdc982
+      internalID: 1039196162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_113
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3768cd07ce39284b87f21e27cdce8c0
+      internalID: 1196853941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_114
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812f0b07e37907c42a31b537f99cd336
+      internalID: -705118621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_115
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b364617d31dfdfa40be99094e6e52bfd
+      internalID: -1868025038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_116
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1372934ca7d4b144c8813b1b46390950
+      internalID: 1601238543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_117
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f4babf8e7170459d9b019a6743bbf
+      internalID: 1537024923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_118
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5975b60655287d0439770090fcc1047a
+      internalID: 1810628852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_119
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 136
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3716562ed237e4c4e806b875277f9157
+      internalID: 642637822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6de7f3d4f449c4088aeee2166589c1
+      internalID: -455933454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_121
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3ca7838472f69479bde765bdc742c5
+      internalID: -256862850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_122
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a342463b79df5b499c2008d78dc7e31
+      internalID: 1392383817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_123
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e38d27c2faae0e4889147974835be83
+      internalID: 1355917089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_124
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e0e12b31bf9d743a705d90d16ba47e
+      internalID: 2101036134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_125
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4743161b1f85aa94f864519c167e8ecb
+      internalID: -1861785369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_126
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb194fb0541c94e8b36b7ff02c57b8
+      internalID: 495484474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_127
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d27f1e399275534e81daebc86ff9603
+      internalID: -985069609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_128
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87195ff9ddcca8e408c108de1e5e635f
+      internalID: 980760684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_129
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf088a119060f45bafae5bd86a5df9
+      internalID: -467124475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_130
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f8ade38b49b948878a3ea0c96e8ab
+      internalID: 2093092280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_131
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 71
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e022e7d1ed65e47895848118925a35
+      internalID: 518508584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fbcc1eaeac43c49ab87347445be1ce
+      internalID: 1541730256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_133
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a79e8ff4c356d478158a301bd49ba7
+      internalID: 193063799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_134
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24779547cd100f044bc7ec5d25e84580
+      internalID: -183080352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_135
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34344f9ce6221347af30b7e173944ef
+      internalID: 726215760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_136
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f8c2064ea882747be809fbfbcae8e6
+      internalID: 664680381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_137
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d95427cea74ba141a5a25f9f74002a7
+      internalID: -2044304661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_138
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b03f04227985f43a47364d9c124217
+      internalID: -1838020260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_139
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c726b09d4bfb347b43aecd9df84102
+      internalID: 1769459344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_140
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a1a62b254846d43a18a53c016f21a5
+      internalID: 1637382566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_141
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea3ffa3e1de36b4c99caa3444beeabf
+      internalID: -662814946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_142
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d226987d9af924f49b341bb8c1f073da
+      internalID: -956917223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20170130212149!House_indoors_(tier_1)_143
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 6
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a03c7a3485d9748959621c4e7e8df3
+      internalID: 1719455378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      20170130212149!House_indoors_(tier_1)_0: -984500900
+      20170130212149!House_indoors_(tier_1)_1: 1801595698
+      20170130212149!House_indoors_(tier_1)_10: 1073427836
+      20170130212149!House_indoors_(tier_1)_100: 837051199
+      20170130212149!House_indoors_(tier_1)_101: -1544459076
+      20170130212149!House_indoors_(tier_1)_102: -909990986
+      20170130212149!House_indoors_(tier_1)_103: -2001087575
+      20170130212149!House_indoors_(tier_1)_104: -2126003401
+      20170130212149!House_indoors_(tier_1)_105: -2130867687
+      20170130212149!House_indoors_(tier_1)_106: 1876647815
+      20170130212149!House_indoors_(tier_1)_107: 608620460
+      20170130212149!House_indoors_(tier_1)_108: 503885301
+      20170130212149!House_indoors_(tier_1)_109: 1426778669
+      20170130212149!House_indoors_(tier_1)_11: -345739919
+      20170130212149!House_indoors_(tier_1)_110: 1009152686
+      20170130212149!House_indoors_(tier_1)_111: -1455061772
+      20170130212149!House_indoors_(tier_1)_112: 1039196162
+      20170130212149!House_indoors_(tier_1)_113: 1196853941
+      20170130212149!House_indoors_(tier_1)_114: -705118621
+      20170130212149!House_indoors_(tier_1)_115: -1868025038
+      20170130212149!House_indoors_(tier_1)_116: 1601238543
+      20170130212149!House_indoors_(tier_1)_117: 1537024923
+      20170130212149!House_indoors_(tier_1)_118: 1810628852
+      20170130212149!House_indoors_(tier_1)_119: 642637822
+      20170130212149!House_indoors_(tier_1)_12: -605817519
+      20170130212149!House_indoors_(tier_1)_120: -455933454
+      20170130212149!House_indoors_(tier_1)_121: -256862850
+      20170130212149!House_indoors_(tier_1)_122: 1392383817
+      20170130212149!House_indoors_(tier_1)_123: 1355917089
+      20170130212149!House_indoors_(tier_1)_124: 2101036134
+      20170130212149!House_indoors_(tier_1)_125: -1861785369
+      20170130212149!House_indoors_(tier_1)_126: 495484474
+      20170130212149!House_indoors_(tier_1)_127: -985069609
+      20170130212149!House_indoors_(tier_1)_128: 980760684
+      20170130212149!House_indoors_(tier_1)_129: -467124475
+      20170130212149!House_indoors_(tier_1)_13: -122235464
+      20170130212149!House_indoors_(tier_1)_130: 2093092280
+      20170130212149!House_indoors_(tier_1)_131: 518508584
+      20170130212149!House_indoors_(tier_1)_132: 1541730256
+      20170130212149!House_indoors_(tier_1)_133: 193063799
+      20170130212149!House_indoors_(tier_1)_134: -183080352
+      20170130212149!House_indoors_(tier_1)_135: 726215760
+      20170130212149!House_indoors_(tier_1)_136: 664680381
+      20170130212149!House_indoors_(tier_1)_137: -2044304661
+      20170130212149!House_indoors_(tier_1)_138: -1838020260
+      20170130212149!House_indoors_(tier_1)_139: 1769459344
+      20170130212149!House_indoors_(tier_1)_14: 1210793229
+      20170130212149!House_indoors_(tier_1)_140: 1637382566
+      20170130212149!House_indoors_(tier_1)_141: -662814946
+      20170130212149!House_indoors_(tier_1)_142: -956917223
+      20170130212149!House_indoors_(tier_1)_143: 1719455378
+      20170130212149!House_indoors_(tier_1)_15: -1605444120
+      20170130212149!House_indoors_(tier_1)_16: 1997421460
+      20170130212149!House_indoors_(tier_1)_17: -1266656469
+      20170130212149!House_indoors_(tier_1)_18: 911508547
+      20170130212149!House_indoors_(tier_1)_19: 1065278068
+      20170130212149!House_indoors_(tier_1)_2: 1588911206
+      20170130212149!House_indoors_(tier_1)_20: -1938243309
+      20170130212149!House_indoors_(tier_1)_21: 355154867
+      20170130212149!House_indoors_(tier_1)_22: 858513079
+      20170130212149!House_indoors_(tier_1)_23: -441526709
+      20170130212149!House_indoors_(tier_1)_24: -1772700960
+      20170130212149!House_indoors_(tier_1)_25: 117793237
+      20170130212149!House_indoors_(tier_1)_26: -487436457
+      20170130212149!House_indoors_(tier_1)_27: 1223271184
+      20170130212149!House_indoors_(tier_1)_28: -2016457699
+      20170130212149!House_indoors_(tier_1)_29: 2016519884
+      20170130212149!House_indoors_(tier_1)_3: 1803377155
+      20170130212149!House_indoors_(tier_1)_30: 1134213854
+      20170130212149!House_indoors_(tier_1)_31: 728083432
+      20170130212149!House_indoors_(tier_1)_32: 2033057098
+      20170130212149!House_indoors_(tier_1)_33: -1082665336
+      20170130212149!House_indoors_(tier_1)_34: -1885274790
+      20170130212149!House_indoors_(tier_1)_35: 46992567
+      20170130212149!House_indoors_(tier_1)_36: -1368609663
+      20170130212149!House_indoors_(tier_1)_37: 1937821996
+      20170130212149!House_indoors_(tier_1)_38: 495839308
+      20170130212149!House_indoors_(tier_1)_39: 894927224
+      20170130212149!House_indoors_(tier_1)_4: 758303394
+      20170130212149!House_indoors_(tier_1)_40: -668406536
+      20170130212149!House_indoors_(tier_1)_41: -931299208
+      20170130212149!House_indoors_(tier_1)_42: -2056222223
+      20170130212149!House_indoors_(tier_1)_43: -537286724
+      20170130212149!House_indoors_(tier_1)_44: -1049542148
+      20170130212149!House_indoors_(tier_1)_45: -2139086780
+      20170130212149!House_indoors_(tier_1)_46: -1803513657
+      20170130212149!House_indoors_(tier_1)_47: 1293685945
+      20170130212149!House_indoors_(tier_1)_48: -1148506994
+      20170130212149!House_indoors_(tier_1)_49: 2142375700
+      20170130212149!House_indoors_(tier_1)_5: -6808584
+      20170130212149!House_indoors_(tier_1)_50: 684758693
+      20170130212149!House_indoors_(tier_1)_51: -1047164954
+      20170130212149!House_indoors_(tier_1)_52: 1282913623
+      20170130212149!House_indoors_(tier_1)_53: 1896296264
+      20170130212149!House_indoors_(tier_1)_54: 975629355
+      20170130212149!House_indoors_(tier_1)_55: 1342201309
+      20170130212149!House_indoors_(tier_1)_56: 1354538540
+      20170130212149!House_indoors_(tier_1)_57: 500278833
+      20170130212149!House_indoors_(tier_1)_58: -1254035249
+      20170130212149!House_indoors_(tier_1)_59: 747807804
+      20170130212149!House_indoors_(tier_1)_6: -546266814
+      20170130212149!House_indoors_(tier_1)_60: 482221745
+      20170130212149!House_indoors_(tier_1)_61: 1448744839
+      20170130212149!House_indoors_(tier_1)_62: -336017046
+      20170130212149!House_indoors_(tier_1)_63: -625874452
+      20170130212149!House_indoors_(tier_1)_64: 1350248693
+      20170130212149!House_indoors_(tier_1)_65: 928071623
+      20170130212149!House_indoors_(tier_1)_66: 1041771915
+      20170130212149!House_indoors_(tier_1)_67: 2072969306
+      20170130212149!House_indoors_(tier_1)_68: 2068884518
+      20170130212149!House_indoors_(tier_1)_69: -108706907
+      20170130212149!House_indoors_(tier_1)_7: 539722173
+      20170130212149!House_indoors_(tier_1)_70: 1620998757
+      20170130212149!House_indoors_(tier_1)_71: 78278303
+      20170130212149!House_indoors_(tier_1)_72: -1116319250
+      20170130212149!House_indoors_(tier_1)_73: 1771175390
+      20170130212149!House_indoors_(tier_1)_74: -1124001437
+      20170130212149!House_indoors_(tier_1)_75: -607995099
+      20170130212149!House_indoors_(tier_1)_76: -136607843
+      20170130212149!House_indoors_(tier_1)_77: -1896538790
+      20170130212149!House_indoors_(tier_1)_78: 1547854017
+      20170130212149!House_indoors_(tier_1)_79: -581825769
+      20170130212149!House_indoors_(tier_1)_8: 601162030
+      20170130212149!House_indoors_(tier_1)_80: 1648122986
+      20170130212149!House_indoors_(tier_1)_81: -1655745469
+      20170130212149!House_indoors_(tier_1)_82: -1684179817
+      20170130212149!House_indoors_(tier_1)_83: 1237416433
+      20170130212149!House_indoors_(tier_1)_84: -639283218
+      20170130212149!House_indoors_(tier_1)_85: -668307738
+      20170130212149!House_indoors_(tier_1)_86: 2042930434
+      20170130212149!House_indoors_(tier_1)_87: 828313703
+      20170130212149!House_indoors_(tier_1)_88: -1601475296
+      20170130212149!House_indoors_(tier_1)_89: -1668871592
+      20170130212149!House_indoors_(tier_1)_9: -1268791607
+      20170130212149!House_indoors_(tier_1)_90: -1383914526
+      20170130212149!House_indoors_(tier_1)_91: 1651287958
+      20170130212149!House_indoors_(tier_1)_92: 361131969
+      20170130212149!House_indoors_(tier_1)_93: -582757787
+      20170130212149!House_indoors_(tier_1)_94: -1673180551
+      20170130212149!House_indoors_(tier_1)_95: 147135018
+      20170130212149!House_indoors_(tier_1)_96: -692625004
+      20170130212149!House_indoors_(tier_1)_97: -1284191207
+      20170130212149!House_indoors_(tier_1)_98: 592248794
+      20170130212149!House_indoors_(tier_1)_99: 39738501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

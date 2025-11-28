@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 02dc2852b9d097646a85a8db6d8da5ca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dirt Hoed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afebf71f9a082c409123049ba132f28
+      internalID: 1257365868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc7c32d117b6e4682a023b3875408c
+      internalID: -808232488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb458c30cc7b1b4fa041bed3f7dc933
+      internalID: -937031767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eddce18c118188469838ce7c7c30d66
+      internalID: -551248395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4b66ae7d927b5419a2378e3c82422d
+      internalID: 1895785357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9fcc3eb2921e54f8d762c90398ae2e
+      internalID: -2097445681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc74599f2a47d46a6ece6aa0315096
+      internalID: -1285615674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd47a03ac5f5584ea305dc4edb90879
+      internalID: -537871130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7f9d74b3eb1e04e91a0cbd08a5b016
+      internalID: 125093517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee5fd3d1d2f2e489a11fa07944a189
+      internalID: -66558668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4284c8cc39cf14f826db54ac25a952
+      internalID: 1439880880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228d20916e048be44ab564ef8b06b607
+      internalID: 1221577168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6729289b3e8184fb3ff4940ca5bffe
+      internalID: 407051345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f72dbd5ab127b4fa1fb85ee0443ac5
+      internalID: -1434123243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddf035a1633c8644a9389a846b54169
+      internalID: 1724214984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt Hoed_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2201395431531084985229a0a3b57180
+      internalID: 604275926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dirt Hoed_0: 1257365868
+      Dirt Hoed_1: -808232488
+      Dirt Hoed_10: -659041054
+      Dirt Hoed_100: 261412946
+      Dirt Hoed_101: 1561674929
+      Dirt Hoed_102: 1188657284
+      Dirt Hoed_103: -1020264230
+      Dirt Hoed_104: -1497838260
+      Dirt Hoed_105: 1905778353
+      Dirt Hoed_106: 1455535224
+      Dirt Hoed_107: -1526008807
+      Dirt Hoed_108: -1478241102
+      Dirt Hoed_109: 756428284
+      Dirt Hoed_11: 67916339
+      Dirt Hoed_110: -1514378696
+      Dirt Hoed_111: 1397936046
+      Dirt Hoed_112: 1374756181
+      Dirt Hoed_113: -877805857
+      Dirt Hoed_114: 106571456
+      Dirt Hoed_115: 1551981858
+      Dirt Hoed_116: -734506971
+      Dirt Hoed_117: 755527915
+      Dirt Hoed_118: 20294503
+      Dirt Hoed_119: 1598077454
+      Dirt Hoed_12: 1895785357
+      Dirt Hoed_120: -1262069895
+      Dirt Hoed_121: -1400525497
+      Dirt Hoed_122: 1464948408
+      Dirt Hoed_123: -1375482658
+      Dirt Hoed_124: 964804573
+      Dirt Hoed_125: 1892098336
+      Dirt Hoed_126: 1035923955
+      Dirt Hoed_127: 1294196449
+      Dirt Hoed_128: -1276392706
+      Dirt Hoed_129: 1120382902
+      Dirt Hoed_13: -2097445681
+      Dirt Hoed_130: 1151251638
+      Dirt Hoed_131: 659192492
+      Dirt Hoed_132: 544236048
+      Dirt Hoed_133: 1201812260
+      Dirt Hoed_134: 1899600635
+      Dirt Hoed_135: 757979634
+      Dirt Hoed_136: -1281188195
+      Dirt Hoed_137: -990732572
+      Dirt Hoed_138: -1609519829
+      Dirt Hoed_139: 1080964515
+      Dirt Hoed_14: -1285615674
+      Dirt Hoed_140: -1213913812
+      Dirt Hoed_141: -1842951923
+      Dirt Hoed_142: 881450587
+      Dirt Hoed_143: 174866552
+      Dirt Hoed_15: -537871130
+      Dirt Hoed_16: -1570599086
+      Dirt Hoed_17: -1257604425
+      Dirt Hoed_18: 436262942
+      Dirt Hoed_19: 467441444
+      Dirt Hoed_2: -937031767
+      Dirt Hoed_20: 256683559
+      Dirt Hoed_21: 1148557059
+      Dirt Hoed_22: -761910364
+      Dirt Hoed_23: 474462228
+      Dirt Hoed_24: 125093517
+      Dirt Hoed_25: -66558668
+      Dirt Hoed_26: 1439880880
+      Dirt Hoed_27: 1221577168
+      Dirt Hoed_28: -841828896
+      Dirt Hoed_29: 1269347630
+      Dirt Hoed_3: -551248395
+      Dirt Hoed_30: -198810222
+      Dirt Hoed_31: 1518850682
+      Dirt Hoed_32: 349405111
+      Dirt Hoed_33: 439641645
+      Dirt Hoed_34: 579863200
+      Dirt Hoed_35: -639311639
+      Dirt Hoed_36: 407051345
+      Dirt Hoed_37: -1434123243
+      Dirt Hoed_38: 1724214984
+      Dirt Hoed_39: 604275926
+      Dirt Hoed_4: 655749533
+      Dirt Hoed_40: -514528934
+      Dirt Hoed_41: -1601526067
+      Dirt Hoed_42: 450399387
+      Dirt Hoed_43: -2129235396
+      Dirt Hoed_44: 1533090719
+      Dirt Hoed_45: 1998312697
+      Dirt Hoed_46: 271988280
+      Dirt Hoed_47: 1111823208
+      Dirt Hoed_48: -1216696302
+      Dirt Hoed_49: 663255811
+      Dirt Hoed_5: -1679551936
+      Dirt Hoed_50: -686172245
+      Dirt Hoed_51: 1288108656
+      Dirt Hoed_52: -540892109
+      Dirt Hoed_53: -1083545373
+      Dirt Hoed_54: 1446052755
+      Dirt Hoed_55: -1257334252
+      Dirt Hoed_56: -96791694
+      Dirt Hoed_57: 1050774655
+      Dirt Hoed_58: 2007125125
+      Dirt Hoed_59: 677596680
+      Dirt Hoed_6: -1465163352
+      Dirt Hoed_60: 851749630
+      Dirt Hoed_61: 1438746555
+      Dirt Hoed_62: -1436785277
+      Dirt Hoed_63: 322108688
+      Dirt Hoed_64: -1073220305
+      Dirt Hoed_65: -321338011
+      Dirt Hoed_66: 1660503388
+      Dirt Hoed_67: 53407383
+      Dirt Hoed_68: 2047796029
+      Dirt Hoed_69: 1129977164
+      Dirt Hoed_7: -486536431
+      Dirt Hoed_70: -309587057
+      Dirt Hoed_71: 1362073380
+      Dirt Hoed_72: -122384864
+      Dirt Hoed_73: 1992467766
+      Dirt Hoed_74: -614080208
+      Dirt Hoed_75: 967851173
+      Dirt Hoed_76: -931823555
+      Dirt Hoed_77: -838552988
+      Dirt Hoed_78: 935553484
+      Dirt Hoed_79: 1888789585
+      Dirt Hoed_8: 1392144885
+      Dirt Hoed_80: -1146629371
+      Dirt Hoed_81: -1932714331
+      Dirt Hoed_82: 1595956317
+      Dirt Hoed_83: -743453661
+      Dirt Hoed_84: 201026954
+      Dirt Hoed_85: -408771857
+      Dirt Hoed_86: 365111519
+      Dirt Hoed_87: -1439011225
+      Dirt Hoed_88: -1143804296
+      Dirt Hoed_89: -1455786272
+      Dirt Hoed_9: 1461001658
+      Dirt Hoed_90: -1271387788
+      Dirt Hoed_91: 324534529
+      Dirt Hoed_92: 854412987
+      Dirt Hoed_93: -79246034
+      Dirt Hoed_94: -625723511
+      Dirt Hoed_95: 114916811
+      Dirt Hoed_96: -2070916814
+      Dirt Hoed_97: -1966177413
+      Dirt Hoed_98: -2017057523
+      Dirt Hoed_99: 1769422433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

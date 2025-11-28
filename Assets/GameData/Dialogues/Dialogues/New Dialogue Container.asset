@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e68f04909c3f34dae0ed8d40b33297, type: 3}
+  m_Name: New Dialogue Container
+  m_EditorClassIdentifier: 
+  line:
+  - "Ch\xE0o m\u1EEBng ch\xE1u \u0111\u1EBFn Thung l\u0169ng Sao R\u01A1i \u2013
+    v\xF9ng \u0111\u1EA5t y\xEAn b\xECnh v\xE0 nhi\u1EC1u \u0111i\u1EC1u k\u1EF3
+    di\u1EC7u. Cu\u1ED1i c\xF9ng th\xEC ch\xE1u c\u0169ng t\u1EDBi r\u1ED3i!"
+  - "\xD4ng ch\xE1u t\u1EEBng l\xE0 tr\u1EE5 c\u1ED9t c\u1EE7a l\xE0ng n\xE0y. Trang
+    tr\u1EA1i n\xE0y t\u1EEBng l\xE0 ni\u1EC1m t\u1EF1 h\xE0o... cho \u0111\u1EBFn
+    khi \xF4ng \u1EA5y \u0111\u1ED9t ng\u1ED9t r\u1EDDi \u0111i. Ch\xE1u quay v\u1EC1
+    \u0111\xE2y l\xE0 \u0111i\u1EC1u tuy\u1EC7t v\u1EDDi nh\u1EA5t m\xE0 Eldoria
+    Valley mong \u0111\u1EE3i su\u1ED1t b\u1EA5y l\xE2u nay."
+  - "Ch\xE1u ch\u1EAFc h\u1EB3n ch\u01B0a quen v\u1EDBi cu\u1ED9c s\u1ED1ng \u1EDF
+    qu\xEA. \u1EDE \u0111\xE2y kh\xF4ng c\xF3 m\u1EA1ng x\xE3 h\u1ED9i, ch\u1EC9
+    c\xF3 \u0111\u1EA5t, c\xE2y, v\xE0 tr\xE1i tim ch\xE2n th\xE0nh. Nh\u01B0ng \u0111\u1EEBng
+    lo, \xF4ng s\u1EBD gi\xFAp ch\xE1u b\u1EAFt \u0111\u1EA7u."
+  - "Vi\u1EC7c \u0111\u1EA7u ti\xEAn ch\xE1u c\u1EA7n l\xE0m l\xE0 h\u1ECDc c\xE1ch
+    sinh t\u1ED3n \u0111\u01A1n gi\u1EA3n:  Nhi\u1EC7m v\u1EE5 \u0111\u1EA7u ti\xEAn:
+    \u201CQu\xE0 T\u1EEB R\u1EEBng\u201D.  H\xE3y nh\u1EB7t 3 lo\u1EA1i qu\u1EA3
+    d\u1EA1i quanh trang tr\u1EA1i ho\u1EB7c r\xECa r\u1EEBng, r\u1ED3i mang \u0111\u1EBFn
+    c\u1EEDa h\xE0ng \u1EDF l\xE0ng \u0111\u1EC3 b\xE1n ki\u1EBFm \u0111\u1ED3ng
+    ti\u1EC1n \u0111\u1EA7u ti\xEAn!"
+  actor: {fileID: 11400000, guid: 3c803e10d0f7d26428c9ebdd770e956b, type: 2}

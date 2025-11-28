@@ -1,0 +1,5868 @@
+fileFormatVersion: 2
+guid: 8473a220c0281a84ba15a944618e09f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Summer_564
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43e404ea00c0074a954e18223de38ef
+      internalID: -309905608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_565
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259fcddf9dee5e41a06dc3c18a35e81
+      internalID: -1001547625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_566
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a175a36e4f0c84a8ffb9e2f9484fa7
+      internalID: 1986471918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_567
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77bc02570402964a9234383f6ef3487
+      internalID: 1629746825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_568
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6e37b733feea04d933af5a506cf006
+      internalID: 68484135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_595
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227615f69f1ad5a43a8c52cac7a5cf30
+      internalID: 1202855944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_596
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f62e4481720fc4f92eb0d45a2767f0
+      internalID: 1446665192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_597
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f4a39031f80ff41bd715346e75d44d
+      internalID: 1845441141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_598
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bf8123906f93b4aa188110bedaa6a0
+      internalID: -1594494667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_599
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99acefbdd87c1d14db0ac3045bcc6a6e
+      internalID: -202284636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_600
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bbc360e9e24c3448bf1b5cccd0fc75
+      internalID: 1315744826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_601
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688783591860f37459dcc33ed1b16bcd
+      internalID: -1167073533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_625
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0016047856a2740418b17ab3b33b2d30
+      internalID: 953441947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_626
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9887fe308e5189c4cb60056dce7cb4bd
+      internalID: 1178103917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_627
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbed2ca45c4e8a945ae54c30419f80f9
+      internalID: 1243061089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_628
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ab42721798b44a919d69e49a32238
+      internalID: -999138986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_629
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8889b73206541d644b4fcd230f5060bf
+      internalID: -1869562276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_656
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7043306203ed24419f8ad3b01623f6f
+      internalID: 1551624619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_657
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff3c1d65eab0f547ba9c356d0f29620
+      internalID: 461909943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_658
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3074ca64a4a02349942e4114e1d1104
+      internalID: -1490696321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_659
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d201ae9edea204fb8edfcd3347acff
+      internalID: -1117880502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205c21b874360f345816717b8ae42ad8
+      internalID: -1522496732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_687
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048576158ec500a409bbe630f89ad0a5
+      internalID: 616632503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_688
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd920a22764c9b9418f3bcb675ae0b1e
+      internalID: 2072740556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_689
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22878783f26e5f747b84b95b4990421b
+      internalID: 339757050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_690
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b97cbc36dee8243ab315f7dfac3863
+      internalID: -278390547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_714
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8816d2dc837d2514d8815ed5ad3c928a
+      internalID: -1357654749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_715
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e13fa1688db34f95ac95d649fe932
+      internalID: -202290435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_716
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe68172530267d40af42bbe0b6d0344
+      internalID: -750795906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_717
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21c5e2bffa5f2448aa4bb34e3c597ed
+      internalID: -239382467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_718
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f1a3475dc99b44a8fdd45015b83e0
+      internalID: 718142937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_735
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70685bbf722d74439588ff481b22ee0
+      internalID: -965154746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_736
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188df2d2a0bee0246a1ce97f49f8051e
+      internalID: -1927653811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_737
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb0e9cf5a3ba4d43ad85fc9bc954161
+      internalID: -572478264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_745
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9ac1c7a972a1e44a7f5cf4de4468ae
+      internalID: 950025889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_746
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64e7c24254a9045863548b9ca10b9c
+      internalID: 1797472386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_747
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b0bee6ad9d2694ab60d777677f7fb2
+      internalID: 1459536512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_748
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c306fcf39ede49a290668e1321765
+      internalID: 1667785332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_749
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35600391240d0a4db418621b30ed7ac
+      internalID: -440483504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_766
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547fb8b4e6578014aa226c134913507f
+      internalID: 2110005473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_767
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b45b8bd434d7842834d0b49b6d191e
+      internalID: -908934683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_768
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 736
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfd932a24304da45ae690a62e2754e6
+      internalID: 1463627497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_771
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb57e695ea2684c9c5e3a6b063156d
+      internalID: 1302582510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_772
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab5a3abb7f81e647b2fc510c28e97a0
+      internalID: -542954904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_773
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8dc5a6f797a80479bb994eff935469
+      internalID: 1222063358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_774
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647798c282314e748a92b2c84118a3fc
+      internalID: -234209766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_775
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b5e64e86ca6bc44819f75279895163
+      internalID: -886863053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_792
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b44217916b482946b6408142a59b7dd
+      internalID: -1665792374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_793
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a377455e8f19744b9b94cf2d6991b6b
+      internalID: 1554779672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_794
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999599de4b29a334ca50b58b6edfb2bb
+      internalID: 1568921531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5ba14291966a4fb1e6759dcc7a60c
+      internalID: 1535371060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f24f57a0d6656f4a81304e339c8ebb1
+      internalID: 1317600491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e964cc4d66a4f499bfdf4425974b2d
+      internalID: -496086571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ea7ccaf5703c54e808ad799b64f41e
+      internalID: -1837555122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ce99c9a9a929469c0e6999ad573b0
+      internalID: -631343090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0006b2fd2141469d7646d002f459c
+      internalID: -447368328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_801
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635fb1e933c5cb46aae11c51e50fec7
+      internalID: 699186458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_802
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d487860c270c154585b91374a8d4ea4
+      internalID: -1725230660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_803
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee820415be0c949bd286c67d08dc6c
+      internalID: -467458343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_804
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f161f3ce6469542b457a2b2a38b4bd
+      internalID: -506506536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49eebcb8dc0e254191603f1bc450d82
+      internalID: -1644015561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e8788cc4dc32e49b1d1f83db0cec2e
+      internalID: -287878437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910618bf76d5e7445b7c1673fa95e8cc
+      internalID: -1351037076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9389e50725d0730498d91949f2272612
+      internalID: -103214603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e297663b328324db609cdb053933e7
+      internalID: 1425985894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c15e43621de646aeadbff1ec2346e
+      internalID: 50033030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_831
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8a1ea2ecd6d24294e48c1483fccb7
+      internalID: -399013784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_832
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfab442064fb424fa8bf68bd774df97
+      internalID: -411098922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_833
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2d2c7130766bd49899c5117b8184bb
+      internalID: 938644396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_834
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537fa748e059b2844ab286deb2205b73
+      internalID: -277979264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_835
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91953da4cbbd5c747a56689eaebc64b3
+      internalID: 2004153072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_836
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72beb7fb43975a4419642eee4dbac30b
+      internalID: 866303550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_837
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a96e8d3d3093544ae57efb00cd4586
+      internalID: 817223045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_838
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00a334cabad5c744863aa868ccd6d70
+      internalID: -1551396624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_839
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22340269400c954494c595211d736c3
+      internalID: -1391184619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_840
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e91af15fee6c498f7befbb8d3f48b
+      internalID: 1268855008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_841
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe7a417d5a5e84ea0ce9f8ffff9fd8
+      internalID: -2091365904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_842
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdc145679ae2bf489201f0d5ee5b1ed
+      internalID: -1321057290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_843
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6877f5c1a31bbf46abb8a8fec834f16
+      internalID: 1486938264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_848
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e699f10df38d4c9ee442e492e5365
+      internalID: 1092359238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_849
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c68e1b954c01e4fafb26fc05a22bfd
+      internalID: -921555869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_850
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9040c923a4f294da343d79f1e31f0c
+      internalID: -121011089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff613801a42ead48a77acd62c68c91e
+      internalID: 55609262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cef1f114c81c947b2a2068d49af401
+      internalID: 888164991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d1e7435b86a94a800d8ef0d134249
+      internalID: -1164849143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a4cdbd1ef39e144aed9d847f89e7ff
+      internalID: -427742682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c283bc0d1b3b5714a824cc0a267e7021
+      internalID: 1255394853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2243145d14bf8d4d8d58dffa22a6e8a
+      internalID: -261749008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_860
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07da9e71d5e8f414eadbabc23373f4cd
+      internalID: -171566776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_861
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e51d96f7ab2b2f45aa370ab441f4b4c
+      internalID: -1362580309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_862
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1445c7bc819c204ebc28838d143a4a5
+      internalID: 791437524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_863
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0383658a98418294996efbd75fca19a3
+      internalID: 950943097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_864
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2fc9c10391a654bb6158ed503f1f46
+      internalID: -45300905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_865
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0a2c67b947fc4c825e42f2e670ee8
+      internalID: -1908093918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_866
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2cc8b88360d848815042beb37dee9
+      internalID: -614842325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_867
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434b92af586f8e149819682ab0002687
+      internalID: -1846760865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_868
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ce777eb15db7c48b99e8d7b1ad6424
+      internalID: 2012743422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_869
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa46c2b754b00524589d9f2906204f0b
+      internalID: -1605973050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_870
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de128bb0645dfd4db5d1b4e9f84c0ac
+      internalID: -1691032264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_871
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fcb8a65b82e8c4ea3d3f24c26cfaf7
+      internalID: -2083942934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_872
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a815a68dbf84b6b4bbcf17aa17693a47
+      internalID: -912140169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_873
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb19e4929d652a498ff38ab50412254
+      internalID: 289814824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_874
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e090eff9246e544d89d68877d487caa
+      internalID: 942128630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_877
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eee93d72e3c9a040a44accfc9ee4c79
+      internalID: -1605403130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_878
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3bf4bb7389e84419afcd9653605fcb
+      internalID: 1732168029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_879
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c34d8cf3ac4e64f9a0dc6283be69cf
+      internalID: 1464582822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_880
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c0834e4893a8843bf9ba95b01d7386
+      internalID: -282404072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_881
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f58f6f6e07bec4478a658bb2caafb9d
+      internalID: 61550563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_882
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d8ece30c9e5d34fbed35e23ff5f9fc
+      internalID: -643482934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928b3ac48478c745b169265e2467855
+      internalID: 210926029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d6f9649a7cc048ab4f73f26fd703e
+      internalID: -1873039986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d6a0a394cb154683836284f336052
+      internalID: 451837895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99668c6d5c5d794f864c25c2a08a7a1
+      internalID: 2056073704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa88bd9350ec184f8a0b6a5771c63bb
+      internalID: -648853423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 25
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa380055b1429a47b3b113f1b609a62
+      internalID: 2037264508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_892
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e21b63c6858d7a48a15205c537087e9
+      internalID: -406927839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_893
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec9ec43ef0071479985bf250466531
+      internalID: -358653265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_894
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a6971f4e10c14f971939b639b7c25
+      internalID: -1894041257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_895
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278bd09cc47fc642a0de0a565d77647
+      internalID: 847414800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_896
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d292c6feeedb244291567c1d54b08e9
+      internalID: 11276839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_897
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b484a91fea76e9e44a04395811bc8d35
+      internalID: -732407004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_898
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382884922dc0f4479f2dc291cf6eccc
+      internalID: 1772911009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_899
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a989aa34119ed9645ba2a39acaa5a569
+      internalID: 4455942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_900
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331c84a175116614a9f3b89aa548365b
+      internalID: -716640952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_901
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25478457426e84195bb159015be3e2
+      internalID: 129372804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_902
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe064d14141a1c4694bc84b102f35c3
+      internalID: 1188908782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_903
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6289b32920d0343a5ba5a6ef2ff56a
+      internalID: -213494065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_906
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213721349e910354990b9b0e0e2252ec
+      internalID: 977626566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_907
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3009e2700077ba4409ebf018852f0327
+      internalID: 1043940023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_908
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588af79af6351d489447725c0789e98
+      internalID: -1650886358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_909
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030ff45b4e378eb4a914fc33de476801
+      internalID: 2055272811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_910
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1512af83975e14c4a8800964ef38076b
+      internalID: -2119063176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda278ca40eb64740a35be01db037caa
+      internalID: -1356576753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee5258d693e1bb44aa9f122158663cb
+      internalID: 1811782185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695dd6dc13676c145bd04f1c6acf7a70
+      internalID: -2081217928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40da78452e5f8994f9b6cfc3aeb6c771
+      internalID: -1092081369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a3906fd6bd8474fa691379611d000c
+      internalID: -835930206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863884075dba7c14e9656ef4e719ac5d
+      internalID: -2106117307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_920
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78618be6fed51074baff3db1bfbf740b
+      internalID: 1416878136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_921
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04cdff537a1fcb45bae30d0c7bf269a
+      internalID: 1482112354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_922
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afde2adfa524694b81c8eb601d10b36
+      internalID: -1699289928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_923
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708d7e54b3e86c140a951f2398372a89
+      internalID: 1270942793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_924
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17485638cb9b9ce4386645b4768614b9
+      internalID: 195559505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_925
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c096dd4fe92c3b54eb75c6ae77e08370
+      internalID: -94299357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_926
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131cba57362ef2e4a8d6cfece9d65ee5
+      internalID: -2108688766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_927
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9997d7014d41144b08f29b2a3d62a8
+      internalID: 994409706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_928
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc58bf28c722ef48ba3bdf7dc73bcf0
+      internalID: -1506315378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_929
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74f1019964c8ed46b52ed83313d426f
+      internalID: -522122632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_930
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0385e4f462cc93d468f9cdf2b72ae61a
+      internalID: -974782333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_931
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f191c8130a254489e2335c078a912
+      internalID: 2082730840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_932
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e9eb754a1ebcc43ac151d20b434af0
+      internalID: 1751076111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_933
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd317838115f8c4bbb450e6374f7b89
+      internalID: 1733403873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_934
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c187f529cd961f043ac0c9b547940d34
+      internalID: -1558515773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_935
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c963433839e7fc4eaf6283155f76ec5
+      internalID: 2109515020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_936
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465ca9e3836ce9e45afc8c60dc15dc21
+      internalID: 371680136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_937
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dee9ecec3d094f4db1a0e0f3de0b2c4
+      internalID: 1134137485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_938
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f04c54ff30814149883484eb0a6c37f
+      internalID: -822449771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb35b3723c814479bba97ed0a86f45
+      internalID: 1841520819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2274ffbef36e7a48996c27cd160a7bf
+      internalID: -1921467684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bb15ea86f34c64492e06b4700d4c22
+      internalID: -347843320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 35
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78588a33ea7c84fb678d8060b6919b
+      internalID: 2074958130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df490809b8e0adf4192e6b1704131254
+      internalID: 1131758911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a65274b90997e46877368b791ea386
+      internalID: -722910720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_951
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f499e3513cd0664a84cac133f1f6158
+      internalID: -1808384827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_952
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af133e6ccaabdf45aeb8979a5a61378
+      internalID: -1888346939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_953
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2698b6256f1fa3a49817be19b08c4c53
+      internalID: 531479194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_975
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a04a891a82071c419454f9b70ab42cd
+      internalID: -1261854879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_976
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6600a52c9a5b994a862cf25833234c7
+      internalID: 831654992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_977
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e34fafabbad08c449faff9d47356e0f
+      internalID: -1514305226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1001
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce06d86bf986c44be1441a2122048a
+      internalID: 920318962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1002
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bf1705f8ec34b4bb4baa795fc7bbbe
+      internalID: -492368727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1003
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cb1d6180b214f42aba0660771e2ab4
+      internalID: 254987556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1295
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f91bfdc99995bf43b0b80122fdc387c
+      internalID: 1853691092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1535
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52e8deff840c9b4480a7f60bad5e8b9
+      internalID: 1234090787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1538
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314854aff06fd414fa429598b457be4f
+      internalID: 1413746048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1539
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f9276714700f41b5e0a7d9ba20a63
+      internalID: -923145309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1723
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10317c067a0c3f48aa2b1fdd7ad3e54
+      internalID: -1133931215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1724
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea63304fd57a4e4ba05ef5eca1bbc45
+      internalID: -1256705505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1725
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32d30c8c476a0419b789796263baf4
+      internalID: -843303304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summer_1726
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328642783d541184193efd4b0e38206f
+      internalID: -1338574735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -1522496732
+      10: -1351037076
+      11: -103214603
+      12: 1425985894
+      13: 50033030
+      14: 55609262
+      15: 888164991
+      16: -1164849143
+      17: -427742682
+      18: 1255394853
+      19: -261749008
+      2: 1535371060
+      20: 210926029
+      21: -1873039986
+      22: 451837895
+      23: 2056073704
+      24: -648853423
+      25: 2037264508
+      26: -1356576753
+      27: 1811782185
+      28: -2081217928
+      29: -1092081369
+      3: 1317600491
+      30: -835930206
+      31: -2106117307
+      32: 1841520819
+      33: -1921467684
+      34: -347843320
+      35: 2074958130
+      36: 1131758911
+      37: -722910720
+      4: -496086571
+      5: -1837555122
+      6: -631343090
+      7: -447368328
+      8: -1644015561
+      9: -287878437
+      Summer_0: -1232735959
+      Summer_1: -1918912057
+      Summer_10: 506724602
+      Summer_100: 1136671361
+      Summer_1000: -1352786006
+      Summer_1001: 920318962
+      Summer_1002: -492368727
+      Summer_1003: 254987556
+      Summer_1004: 825308157
+      Summer_1005: -356910715
+      Summer_1006: -1880233600
+      Summer_1007: 42261200
+      Summer_1008: -989390278
+      Summer_1009: 1177343254
+      Summer_101: 237462844
+      Summer_1010: 1202215439
+      Summer_1011: -652634199
+      Summer_1012: 13765644
+      Summer_1013: 1610302519
+      Summer_1014: -1381619386
+      Summer_1015: -937289224
+      Summer_1016: -1088528493
+      Summer_1017: -2065343683
+      Summer_1018: 1810102927
+      Summer_1019: -293071281
+      Summer_102: 931650778
+      Summer_1020: 669374230
+      Summer_1021: 59400974
+      Summer_1022: 29267183
+      Summer_1023: 1995944312
+      Summer_1024: -240713257
+      Summer_1025: 773485321
+      Summer_1026: 1719062864
+      Summer_1027: 876620485
+      Summer_1028: 1387597099
+      Summer_1029: 2001568681
+      Summer_103: -1716666480
+      Summer_1030: 1129889033
+      Summer_1031: 53280541
+      Summer_1032: 459718348
+      Summer_1033: 200518966
+      Summer_1034: 1428742883
+      Summer_1035: -819849714
+      Summer_1036: 398379404
+      Summer_1037: -1512671325
+      Summer_1038: 1619857369
+      Summer_1039: -197445249
+      Summer_104: -1994528200
+      Summer_1040: -1444951662
+      Summer_1041: -1809279719
+      Summer_1042: 169237947
+      Summer_1043: -1855452754
+      Summer_1044: -1910008684
+      Summer_1045: 55939726
+      Summer_1046: -1368423664
+      Summer_1047: -1314009956
+      Summer_1048: -1160679344
+      Summer_1049: -1919568273
+      Summer_105: 818081983
+      Summer_1050: -335795268
+      Summer_1051: -722100670
+      Summer_1052: -544707648
+      Summer_1053: -1672641355
+      Summer_1054: -1879325101
+      Summer_1055: -48225927
+      Summer_1056: 1550765510
+      Summer_1057: 2027139739
+      Summer_1058: -236852216
+      Summer_1059: -688601773
+      Summer_106: -1185679386
+      Summer_1060: -377206546
+      Summer_1061: 1844783820
+      Summer_1062: -2032860972
+      Summer_1063: 1200139687
+      Summer_1064: -1669750059
+      Summer_1065: 488492556
+      Summer_1066: 1180262125
+      Summer_1067: 1446132121
+      Summer_1068: 1580961882
+      Summer_1069: 1706865657
+      Summer_107: -1985747477
+      Summer_1070: -830599795
+      Summer_1071: 848336186
+      Summer_1072: 362516755
+      Summer_1073: 1971634101
+      Summer_1074: -722943583
+      Summer_1075: -425953700
+      Summer_1076: -746774502
+      Summer_1077: 320955886
+      Summer_1078: -626977635
+      Summer_1079: -874594452
+      Summer_108: -1103159087
+      Summer_1080: -1429622054
+      Summer_1081: -1189004078
+      Summer_1082: 1357807162
+      Summer_1083: -644156031
+      Summer_1084: -1356275284
+      Summer_1085: 1364209108
+      Summer_1086: 1972347684
+      Summer_1087: -1957136863
+      Summer_1088: 1667575932
+      Summer_1089: 700901555
+      Summer_109: 2056421202
+      Summer_1090: -35008294
+      Summer_1091: 721512347
+      Summer_1092: 931062966
+      Summer_1093: 1064407484
+      Summer_1094: -661070918
+      Summer_1095: -657135411
+      Summer_1096: -1452884880
+      Summer_1097: 285996689
+      Summer_1098: -1551267388
+      Summer_1099: -1222908361
+      Summer_11: -1048150902
+      Summer_110: -1650856513
+      Summer_1100: 2075471445
+      Summer_1101: 162762395
+      Summer_1102: 1304300188
+      Summer_1103: -320868469
+      Summer_1104: 832085628
+      Summer_1105: -1358946555
+      Summer_1106: 701107765
+      Summer_1107: -227923922
+      Summer_1108: 414762620
+      Summer_1109: -1967528976
+      Summer_111: -1847671335
+      Summer_1110: 1055325869
+      Summer_1111: 1052561693
+      Summer_1112: -2030968109
+      Summer_1113: -787225326
+      Summer_1114: 556563039
+      Summer_1115: 1129291624
+      Summer_1116: 1366224589
+      Summer_1117: 1316756114
+      Summer_1118: -1834543414
+      Summer_1119: -113312292
+      Summer_112: 543997544
+      Summer_1120: 1071935787
+      Summer_1121: 1326928874
+      Summer_1122: 1369221630
+      Summer_1123: -1373542251
+      Summer_1124: 395275643
+      Summer_1125: 1752690090
+      Summer_1126: -454751578
+      Summer_1127: -1383004320
+      Summer_1128: -452451314
+      Summer_1129: -577034638
+      Summer_113: 97106818
+      Summer_1130: 1578048063
+      Summer_1131: -1236053544
+      Summer_1132: -1439897387
+      Summer_1133: -980607033
+      Summer_1134: 119263488
+      Summer_1135: 598866489
+      Summer_1136: -898048181
+      Summer_1137: 204889375
+      Summer_1138: 331955138
+      Summer_1139: -844722456
+      Summer_114: -1284059907
+      Summer_1140: -1135060941
+      Summer_1141: -1260339495
+      Summer_1142: -2077466094
+      Summer_1143: 1586763613
+      Summer_1144: -1793311036
+      Summer_1145: -918054853
+      Summer_1146: -1611167684
+      Summer_1147: 1592803745
+      Summer_1148: 764007038
+      Summer_1149: -328434088
+      Summer_115: 2018249979
+      Summer_1150: -1283281623
+      Summer_1151: 1361032447
+      Summer_1152: -1589744431
+      Summer_1153: -1336413301
+      Summer_1154: -259874195
+      Summer_1155: 1212059603
+      Summer_1156: -272403400
+      Summer_1157: 2091323651
+      Summer_1158: 999978156
+      Summer_1159: -749059999
+      Summer_116: -589043687
+      Summer_1160: 1165676190
+      Summer_1161: 1376959703
+      Summer_1162: 1009005620
+      Summer_1163: 961803898
+      Summer_1164: -1317000965
+      Summer_1165: -804184367
+      Summer_1166: -2007729947
+      Summer_1167: 221923399
+      Summer_1168: -1129019327
+      Summer_1169: 1684071947
+      Summer_117: -2124256663
+      Summer_1170: 108600188
+      Summer_1171: -1028919961
+      Summer_1172: 593776368
+      Summer_1173: -1317237126
+      Summer_1174: 559389341
+      Summer_1175: -687036510
+      Summer_1176: -676167356
+      Summer_1177: -793970837
+      Summer_1178: -788501870
+      Summer_1179: -246963709
+      Summer_118: 1061380555
+      Summer_1180: -1292926346
+      Summer_1181: -828154003
+      Summer_1182: -143045369
+      Summer_1183: 629240160
+      Summer_1184: -637693084
+      Summer_1185: 1572627021
+      Summer_1186: -512661204
+      Summer_1187: 174726184
+      Summer_1188: 420795857
+      Summer_1189: -1896559836
+      Summer_119: -361498120
+      Summer_1190: -558497407
+      Summer_1191: 1224250769
+      Summer_1192: -273378711
+      Summer_1193: 9490917
+      Summer_1194: -1957505307
+      Summer_1195: 391845592
+      Summer_1196: 1436316196
+      Summer_1197: -1068950127
+      Summer_1198: -1047379992
+      Summer_1199: -1661978035
+      Summer_12: 426831245
+      Summer_120: -1714897023
+      Summer_1200: -1927285204
+      Summer_1201: -1148386495
+      Summer_1202: 1295111991
+      Summer_1203: 2094840058
+      Summer_1204: -223489578
+      Summer_1205: 505679299
+      Summer_1206: -1597071049
+      Summer_1207: -1723198874
+      Summer_1208: -1613733424
+      Summer_1209: 965845932
+      Summer_121: -860271009
+      Summer_1210: 822835739
+      Summer_1211: 1816492423
+      Summer_1212: 1307596996
+      Summer_1213: 440140844
+      Summer_1214: -1635267461
+      Summer_1215: 27115375
+      Summer_1216: 777783694
+      Summer_1217: -1078899014
+      Summer_1218: 1216689309
+      Summer_1219: 1226058018
+      Summer_122: 806371821
+      Summer_1220: -1232472461
+      Summer_1221: 1205646682
+      Summer_1222: 2013198158
+      Summer_1223: 1077139570
+      Summer_1224: 2840555
+      Summer_1225: -880220180
+      Summer_1226: 1557731305
+      Summer_1227: 706348208
+      Summer_1228: -1061096110
+      Summer_1229: -1493035763
+      Summer_123: -3969609
+      Summer_1230: -549495232
+      Summer_1231: -58278546
+      Summer_1232: -1845224618
+      Summer_1233: 158247608
+      Summer_1234: -559949687
+      Summer_1235: 1950640754
+      Summer_1236: 737995116
+      Summer_1237: -2007881613
+      Summer_1238: -268362203
+      Summer_1239: -1444938042
+      Summer_124: -781958719
+      Summer_1240: -584634663
+      Summer_1241: -1625007366
+      Summer_1242: 1440983899
+      Summer_1243: 392292598
+      Summer_1244: -697632669
+      Summer_1245: -1363083072
+      Summer_1246: -584295169
+      Summer_1247: 1297775186
+      Summer_1248: -548140608
+      Summer_1249: -1677815364
+      Summer_125: 812283607
+      Summer_1250: -918084068
+      Summer_1251: 1462009724
+      Summer_1252: 656141016
+      Summer_1253: -1653387856
+      Summer_1254: 1976255837
+      Summer_1255: 88161688
+      Summer_1256: 33329847
+      Summer_1257: -531295964
+      Summer_1258: 2004596127
+      Summer_1259: 136888667
+      Summer_126: -665495432
+      Summer_1260: -1886300657
+      Summer_1261: 20115447
+      Summer_1262: -1889790554
+      Summer_1263: 557030897
+      Summer_1264: 2061623669
+      Summer_1265: -438713453
+      Summer_1266: 388428455
+      Summer_1267: 310047176
+      Summer_1268: 305778026
+      Summer_1269: 295352262
+      Summer_127: 880795698
+      Summer_1270: 364774170
+      Summer_1271: 494914946
+      Summer_1272: -2042000353
+      Summer_1273: 277080373
+      Summer_1274: 297094539
+      Summer_1275: -911530385
+      Summer_1276: 1323704763
+      Summer_1277: -580791261
+      Summer_1278: 127712040
+      Summer_1279: -410923283
+      Summer_128: -357127210
+      Summer_1280: -1642433685
+      Summer_1281: -590029986
+      Summer_1282: -333878343
+      Summer_1283: -1276057589
+      Summer_1284: -836096296
+      Summer_1285: -1010151871
+      Summer_1286: -1862015665
+      Summer_1287: -1821994844
+      Summer_1288: 433629389
+      Summer_1289: 851871177
+      Summer_129: 802810626
+      Summer_1290: -549744573
+      Summer_1291: -1713379930
+      Summer_1292: -1462729776
+      Summer_1293: -263995724
+      Summer_1294: 1359540362
+      Summer_1295: 1853691092
+      Summer_1296: -1215676096
+      Summer_1297: 1445136079
+      Summer_1298: -686537589
+      Summer_1299: 1803990570
+      Summer_13: 861802591
+      Summer_130: 1482196112
+      Summer_1300: 1153789298
+      Summer_1301: 876161532
+      Summer_1302: -110961667
+      Summer_1303: -1586938199
+      Summer_1304: -695584867
+      Summer_1305: -550586097
+      Summer_1306: 1166945785
+      Summer_1307: -1198388262
+      Summer_1308: 81882189
+      Summer_1309: 617383339
+      Summer_131: 1236069724
+      Summer_1310: 972969966
+      Summer_1311: 500354197
+      Summer_1312: -189295672
+      Summer_1313: 69371888
+      Summer_1314: 571619872
+      Summer_1315: -353938521
+      Summer_1316: 1904966720
+      Summer_1317: 494516069
+      Summer_1318: 280749330
+      Summer_1319: -729769165
+      Summer_132: 2125281928
+      Summer_1320: 1579420266
+      Summer_1321: 1257603047
+      Summer_1322: -2026902544
+      Summer_1323: -1380203229
+      Summer_1324: 1486086214
+      Summer_1325: 896382886
+      Summer_1326: -195745852
+      Summer_1327: 1521096017
+      Summer_1328: 29822488
+      Summer_1329: -1483509670
+      Summer_133: 1547025498
+      Summer_1330: -208550574
+      Summer_1331: 977685065
+      Summer_1332: 1550323440
+      Summer_1333: -470067821
+      Summer_1334: 1770784607
+      Summer_1335: -1641549161
+      Summer_1336: 1392888871
+      Summer_1337: 330824306
+      Summer_1338: -336973969
+      Summer_1339: -645875242
+      Summer_134: -1751756437
+      Summer_1340: -547699055
+      Summer_1341: -853309559
+      Summer_1342: -100522527
+      Summer_1343: -1791627218
+      Summer_1344: -2057303025
+      Summer_1345: -1380090933
+      Summer_1346: -1976656010
+      Summer_1347: -702982509
+      Summer_1348: -945199568
+      Summer_1349: -1932577893
+      Summer_135: -997584229
+      Summer_1350: -1036015782
+      Summer_1351: 1507148188
+      Summer_1352: -341829192
+      Summer_1353: 1489928780
+      Summer_1354: -392431324
+      Summer_1355: 990796535
+      Summer_1356: -1819225211
+      Summer_1357: 299423914
+      Summer_1358: 777353946
+      Summer_1359: 357345477
+      Summer_136: 1621160787
+      Summer_1360: 1387882312
+      Summer_1361: 1012835331
+      Summer_1362: -2017145295
+      Summer_1363: -983157374
+      Summer_1364: -321980120
+      Summer_1365: 586313947
+      Summer_1366: -1092760881
+      Summer_1367: 796291571
+      Summer_1368: 1552306253
+      Summer_1369: 157254415
+      Summer_137: 298551160
+      Summer_1370: 846260134
+      Summer_1371: -440829641
+      Summer_1372: 404380184
+      Summer_1373: 1541990965
+      Summer_1374: 2093264906
+      Summer_1375: 963300000
+      Summer_1376: -1954864423
+      Summer_1377: -87128544
+      Summer_1378: 659844284
+      Summer_1379: -1348656831
+      Summer_138: 1113370356
+      Summer_1380: 1093589721
+      Summer_1381: -967216460
+      Summer_1382: 903769097
+      Summer_1383: -540669366
+      Summer_1384: -415422029
+      Summer_1385: 543242303
+      Summer_1386: -1343208667
+      Summer_1387: -1548608300
+      Summer_1388: -1600990295
+      Summer_1389: -1769423996
+      Summer_139: -734499349
+      Summer_1390: 1779052103
+      Summer_1391: 1567585830
+      Summer_1392: -2054159590
+      Summer_1393: 742837958
+      Summer_1394: -665457584
+      Summer_1395: -260553891
+      Summer_1396: 1649034124
+      Summer_1397: 739208409
+      Summer_1398: -248071442
+      Summer_1399: -1045204947
+      Summer_14: -2054431179
+      Summer_140: -1209852631
+      Summer_1400: -973503171
+      Summer_1401: 762542475
+      Summer_1402: 1352837200
+      Summer_1403: 538010955
+      Summer_1404: -269997462
+      Summer_1405: -495291732
+      Summer_1406: -2081203298
+      Summer_1407: -909024927
+      Summer_1408: 1020783348
+      Summer_1409: 1654691244
+      Summer_141: -2055978931
+      Summer_1410: 615001013
+      Summer_1411: 511278589
+      Summer_1412: -938599092
+      Summer_1413: -549513578
+      Summer_1414: 5979043
+      Summer_1415: -1736736573
+      Summer_1416: -542764984
+      Summer_1417: -303783703
+      Summer_1418: -1792400596
+      Summer_1419: -1757140171
+      Summer_142: -814608504
+      Summer_1420: 2080925388
+      Summer_1421: 412098130
+      Summer_1422: -588889498
+      Summer_1423: 1822586457
+      Summer_1424: 861960643
+      Summer_1425: 573133161
+      Summer_1426: 806482714
+      Summer_1427: -906239688
+      Summer_1428: 339761830
+      Summer_1429: -1786265415
+      Summer_143: -336678188
+      Summer_1430: 977268778
+      Summer_1431: -1153236352
+      Summer_1432: -588752123
+      Summer_1433: 111527712
+      Summer_1434: -1895567370
+      Summer_1435: 748535799
+      Summer_1436: 1552414011
+      Summer_1437: -374961823
+      Summer_1438: 1872930940
+      Summer_1439: -1323531142
+      Summer_144: 844996896
+      Summer_1440: -763656567
+      Summer_1441: -453643518
+      Summer_1442: 1610741141
+      Summer_1443: -1929730155
+      Summer_1444: 2023321237
+      Summer_1445: 1079930249
+      Summer_1446: 632875266
+      Summer_1447: -130167803
+      Summer_1448: -1455797407
+      Summer_1449: 2078182196
+      Summer_145: -187395259
+      Summer_1450: -633255405
+      Summer_1451: 1947399649
+      Summer_1452: -2109956627
+      Summer_1453: 2040680973
+      Summer_1454: 1191103191
+      Summer_1455: -1714168998
+      Summer_1456: -1652951256
+      Summer_1457: -1609724494
+      Summer_1458: -860221410
+      Summer_1459: -999010889
+      Summer_146: 633306290
+      Summer_1460: -2115201067
+      Summer_1461: 2119421725
+      Summer_1462: -1030609953
+      Summer_1463: 234549302
+      Summer_1464: 1517343747
+      Summer_1465: 251407916
+      Summer_1466: 263299607
+      Summer_1467: -913686182
+      Summer_1468: -1425882962
+      Summer_1469: 1602642254
+      Summer_147: 1380722108
+      Summer_1470: 646268633
+      Summer_1471: -57758854
+      Summer_1472: -779703202
+      Summer_1473: 1993070492
+      Summer_1474: 1502274242
+      Summer_1475: 159225982
+      Summer_1476: 506054212
+      Summer_1477: -1128487540
+      Summer_1478: 843471443
+      Summer_1479: -1708921793
+      Summer_148: -151202572
+      Summer_1480: -1499499301
+      Summer_1481: -643893765
+      Summer_1482: -827173423
+      Summer_1483: 625740250
+      Summer_1484: -488809486
+      Summer_1485: 1308975111
+      Summer_1486: 1336733071
+      Summer_1487: -13904687
+      Summer_1488: 1401436556
+      Summer_1489: 916813214
+      Summer_149: 204759717
+      Summer_1490: -1649340430
+      Summer_1491: -2082427938
+      Summer_1492: -1170943607
+      Summer_1493: -521168550
+      Summer_1494: -605367362
+      Summer_1495: -706527727
+      Summer_1496: -1571019954
+      Summer_1497: -887906786
+      Summer_1498: 1515518784
+      Summer_1499: 910791988
+      Summer_15: -386876843
+      Summer_150: -4251889
+      Summer_1500: -643891493
+      Summer_1501: -604105497
+      Summer_1502: 235526873
+      Summer_1503: 1629152349
+      Summer_1504: -445836326
+      Summer_1505: 1443348677
+      Summer_1506: -2010177580
+      Summer_1507: 930131078
+      Summer_1508: -658770809
+      Summer_1509: -537970390
+      Summer_151: 327544219
+      Summer_1510: 908642634
+      Summer_1511: -1451077431
+      Summer_1512: -1169290544
+      Summer_1513: 297882139
+      Summer_1514: -1422011063
+      Summer_1515: -1271368242
+      Summer_1516: -1453358000
+      Summer_1517: -1925116203
+      Summer_1518: -339089459
+      Summer_1519: 1989380177
+      Summer_152: 61824549
+      Summer_1520: 1413489544
+      Summer_1521: -451034588
+      Summer_1522: 1668091267
+      Summer_1523: 472462773
+      Summer_1524: 1063476102
+      Summer_1525: 717802625
+      Summer_1526: 1726778700
+      Summer_1527: 662048680
+      Summer_1528: -1950165192
+      Summer_1529: -127207119
+      Summer_153: 1597019808
+      Summer_1530: 1032841686
+      Summer_1531: 937469298
+      Summer_1532: 937477523
+      Summer_1533: 499907569
+      Summer_1534: -205256934
+      Summer_1535: 1234090787
+      Summer_1536: 1462318620
+      Summer_1537: -1904823
+      Summer_1538: 1413746048
+      Summer_1539: -923145309
+      Summer_154: 1925331279
+      Summer_1540: -1811554726
+      Summer_1541: -1921949746
+      Summer_1542: -1911524678
+      Summer_1543: 1230439967
+      Summer_1544: -1687763839
+      Summer_1545: 1490448731
+      Summer_1546: 1517069212
+      Summer_1547: -1134750808
+      Summer_1548: -364498697
+      Summer_1549: -780462410
+      Summer_155: 1990512221
+      Summer_1550: 889707496
+      Summer_1551: 514458787
+      Summer_1552: -1532199504
+      Summer_1553: 257992038
+      Summer_1554: 183074192
+      Summer_1555: -1254051258
+      Summer_1556: -688628935
+      Summer_1557: 1132756245
+      Summer_1558: -290251240
+      Summer_1559: 1674482211
+      Summer_156: 2101678275
+      Summer_1560: 620606714
+      Summer_1561: 1616064718
+      Summer_1562: 937208584
+      Summer_1563: 892742549
+      Summer_1564: -993340459
+      Summer_1565: -1626654246
+      Summer_1566: -928990535
+      Summer_1567: 689195772
+      Summer_1568: 1895250328
+      Summer_1569: -1309804498
+      Summer_157: 65714521
+      Summer_1570: -1038947504
+      Summer_1571: 1726596872
+      Summer_1572: 1527522195
+      Summer_1573: -1695003770
+      Summer_1574: 915437283
+      Summer_1575: 1729317279
+      Summer_1576: -1528827911
+      Summer_1577: 790670016
+      Summer_1578: -658118352
+      Summer_1579: -378451762
+      Summer_158: 750310006
+      Summer_1580: -1269627199
+      Summer_1581: 1166512
+      Summer_1582: -1793215958
+      Summer_1583: 606385244
+      Summer_1584: -1052369051
+      Summer_1585: -1248486285
+      Summer_1586: -1332449818
+      Summer_1587: 974240218
+      Summer_1588: 1927470654
+      Summer_1589: 184169885
+      Summer_159: -690417124
+      Summer_1590: 1300314955
+      Summer_1591: -556865912
+      Summer_1592: -963622400
+      Summer_1593: 1193689116
+      Summer_1594: 1554298001
+      Summer_1595: 2069912984
+      Summer_1596: 239346757
+      Summer_1597: -1794843349
+      Summer_1598: 90902013
+      Summer_1599: -1843851984
+      Summer_16: -552766929
+      Summer_160: -504419756
+      Summer_1600: -1912184117
+      Summer_1601: -584574931
+      Summer_1602: -284927048
+      Summer_1603: 983463128
+      Summer_1604: 342873485
+      Summer_1605: -2076695950
+      Summer_1606: 212225714
+      Summer_1607: -1408396991
+      Summer_1608: 1898895137
+      Summer_1609: -1119885401
+      Summer_161: -730922900
+      Summer_1610: 527709001
+      Summer_1611: -1372607042
+      Summer_1612: -212576158
+      Summer_1613: -1111902883
+      Summer_1614: 1009399825
+      Summer_1615: 1425103203
+      Summer_1616: -475485843
+      Summer_1617: 1544260322
+      Summer_1618: 1983169472
+      Summer_1619: 951100674
+      Summer_162: 1487746151
+      Summer_1620: 317225240
+      Summer_1621: -303562685
+      Summer_1622: 1449023325
+      Summer_1623: 1250290117
+      Summer_1624: 490124168
+      Summer_1625: 1145563035
+      Summer_1626: -1923017253
+      Summer_1627: -1245682617
+      Summer_1628: -1429167050
+      Summer_1629: -629055828
+      Summer_163: 408589975
+      Summer_1630: -33746790
+      Summer_1631: 1720780838
+      Summer_1632: 1506015430
+      Summer_1633: -1578486450
+      Summer_1634: 2018025272
+      Summer_1635: 897499491
+      Summer_1636: -1514567660
+      Summer_1637: -1432471625
+      Summer_1638: -66827946
+      Summer_1639: -1276005826
+      Summer_164: 1536794360
+      Summer_1640: -417679657
+      Summer_1641: 990827061
+      Summer_1642: 1777930853
+      Summer_1643: 2095666596
+      Summer_1644: 451641270
+      Summer_1645: 1149812155
+      Summer_1646: 2060059907
+      Summer_1647: 683801961
+      Summer_1648: 59243002
+      Summer_1649: 614263914
+      Summer_165: 1605616561
+      Summer_1650: 370332246
+      Summer_1651: 600584793
+      Summer_1652: 395239199
+      Summer_1653: -1990227981
+      Summer_1654: 429227549
+      Summer_1655: 129167275
+      Summer_1656: -851971065
+      Summer_1657: 1132529401
+      Summer_1658: 1745351518
+      Summer_1659: -1698648353
+      Summer_166: -993580216
+      Summer_1660: -2126260025
+      Summer_1661: -1523877306
+      Summer_1662: 831662900
+      Summer_1663: -35961073
+      Summer_1664: -1581355378
+      Summer_1665: -147037048
+      Summer_1666: -1178864487
+      Summer_1667: 711551993
+      Summer_1668: -1411733803
+      Summer_1669: -1242735045
+      Summer_167: 1718121671
+      Summer_1670: 941381752
+      Summer_1671: 1820780241
+      Summer_1672: 1160024989
+      Summer_1673: 1351371801
+      Summer_1674: -1967105567
+      Summer_1675: 944281797
+      Summer_1676: 863109918
+      Summer_1677: 1981697012
+      Summer_1678: 1124635047
+      Summer_1679: 583465464
+      Summer_168: -1964707175
+      Summer_1680: 445184149
+      Summer_1681: 969051594
+      Summer_1682: 1825665877
+      Summer_1683: 13936309
+      Summer_1684: -1762734525
+      Summer_1685: -1034722269
+      Summer_1686: -1038306292
+      Summer_1687: -1909436734
+      Summer_1688: -1708506591
+      Summer_1689: -233012380
+      Summer_169: -1230043549
+      Summer_1690: 525832650
+      Summer_1691: -692915704
+      Summer_1692: -1583183431
+      Summer_1693: 160231639
+      Summer_1694: 1087102017
+      Summer_1695: -1893971688
+      Summer_1696: 946561795
+      Summer_1697: 398283975
+      Summer_1698: 663920794
+      Summer_1699: 991546107
+      Summer_17: 1181731427
+      Summer_170: 810472502
+      Summer_1700: -1274902929
+      Summer_1701: -2085524803
+      Summer_1702: 981112044
+      Summer_1703: 500037186
+      Summer_1704: 709837844
+      Summer_1705: -1465759797
+      Summer_1706: -1004094211
+      Summer_1707: 303679847
+      Summer_1708: 2033599312
+      Summer_1709: 1101130107
+      Summer_171: 1748624289
+      Summer_1710: 763451040
+      Summer_1711: -822833847
+      Summer_1712: 1045951192
+      Summer_1713: 2117324679
+      Summer_1714: 121628274
+      Summer_1715: 1042519529
+      Summer_1716: 535736177
+      Summer_1717: 52196452
+      Summer_1718: -791125682
+      Summer_1719: -666097866
+      Summer_172: 808171179
+      Summer_1720: -1398985022
+      Summer_1721: -222333280
+      Summer_1722: -26581426
+      Summer_1723: -1133931215
+      Summer_1724: -1256705505
+      Summer_1725: -843303304
+      Summer_1726: -1338574735
+      Summer_1727: 1849624198
+      Summer_1728: -805950155
+      Summer_1729: 590275638
+      Summer_173: -1559493232
+      Summer_1730: 1864452729
+      Summer_1731: -1260476522
+      Summer_1732: -1039512384
+      Summer_1733: 1588201408
+      Summer_1734: -1774098026
+      Summer_1735: 1422738773
+      Summer_1736: -1841987895
+      Summer_1737: -236698314
+      Summer_1738: 1163579158
+      Summer_1739: -1647920441
+      Summer_174: -214593807
+      Summer_1740: -229995543
+      Summer_1741: -1191211068
+      Summer_1742: 72285298
+      Summer_1743: 372332025
+      Summer_1744: -1160024374
+      Summer_1745: 434788156
+      Summer_1746: -729528113
+      Summer_1747: -751482327
+      Summer_1748: -1480332705
+      Summer_1749: 171911955
+      Summer_175: 1091332774
+      Summer_1750: -1326007639
+      Summer_1751: -542207306
+      Summer_1752: 1887170679
+      Summer_1753: -11854022
+      Summer_1754: 988166867
+      Summer_1755: 1788638430
+      Summer_1756: 2042631501
+      Summer_1757: -184846888
+      Summer_1758: -1238622400
+      Summer_1759: -1056157682
+      Summer_176: -1252881839
+      Summer_1760: 1823782991
+      Summer_1761: -990257672
+      Summer_1762: -209260303
+      Summer_1763: -944280942
+      Summer_1764: 919936320
+      Summer_1765: -547067307
+      Summer_1766: -274548224
+      Summer_1767: 1810425700
+      Summer_1768: 1933259983
+      Summer_1769: 1342064745
+      Summer_177: 1050767963
+      Summer_1770: 463220851
+      Summer_1771: -827848420
+      Summer_1772: -1417412387
+      Summer_1773: 273006127
+      Summer_1774: -1170941147
+      Summer_1775: 789470919
+      Summer_1776: -427785678
+      Summer_1777: 1343679392
+      Summer_1778: -2438625
+      Summer_1779: 2027557705
+      Summer_178: -1854959796
+      Summer_1780: -1035289231
+      Summer_1781: 1976488415
+      Summer_1782: -1341381922
+      Summer_1783: -1076623900
+      Summer_1784: 206177053
+      Summer_1785: 1138670492
+      Summer_1786: -1951728083
+      Summer_1787: -891160190
+      Summer_1788: 1521439236
+      Summer_1789: 1528023474
+      Summer_179: 476638956
+      Summer_1790: -2073854219
+      Summer_1791: 585488092
+      Summer_1792: -981473891
+      Summer_1793: 1630661595
+      Summer_1794: -1212191629
+      Summer_1795: -1759068164
+      Summer_1796: -1101949121
+      Summer_1797: 1289134921
+      Summer_1798: 540296566
+      Summer_1799: -1204799616
+      Summer_18: -39628975
+      Summer_180: 1068092250
+      Summer_1800: -508679352
+      Summer_1801: -356041579
+      Summer_1802: 303402934
+      Summer_1803: -1283126956
+      Summer_1804: -808518139
+      Summer_1805: 1687272307
+      Summer_1806: -1840390209
+      Summer_1807: -1052624990
+      Summer_1808: -749338621
+      Summer_1809: -1946937767
+      Summer_181: -1924056279
+      Summer_1810: -257910289
+      Summer_1811: -11051345
+      Summer_1812: -40848537
+      Summer_1813: -1059261599
+      Summer_1814: -1163068721
+      Summer_1815: -1578041112
+      Summer_1816: 301645189
+      Summer_1817: -957756525
+      Summer_1818: -624335916
+      Summer_1819: -638017870
+      Summer_182: -727458960
+      Summer_1820: -762545528
+      Summer_1821: -652086462
+      Summer_1822: 470122762
+      Summer_1823: -471357800
+      Summer_1824: -2137182184
+      Summer_1825: 1887682684
+      Summer_1826: 936617003
+      Summer_1827: 194605717
+      Summer_1828: -324149607
+      Summer_1829: -2142271035
+      Summer_183: 93193838
+      Summer_1830: -368495138
+      Summer_1831: -1967259860
+      Summer_1832: -199048952
+      Summer_1833: 1253408706
+      Summer_1834: -2136042600
+      Summer_1835: -1960031362
+      Summer_1836: -1481516906
+      Summer_1837: -585876163
+      Summer_1838: 276217498
+      Summer_1839: -2109825948
+      Summer_184: 729557280
+      Summer_1840: -39260785
+      Summer_1841: -1836374662
+      Summer_1842: -1959162928
+      Summer_1843: 368212765
+      Summer_1844: -1441961258
+      Summer_1845: 69316116
+      Summer_1846: 1638490445
+      Summer_1847: 1652420614
+      Summer_1848: 1360795170
+      Summer_1849: 891328659
+      Summer_185: -1017795675
+      Summer_1850: 82852342
+      Summer_1851: -31584179
+      Summer_1852: -420560974
+      Summer_1853: -1805091589
+      Summer_1854: -596627092
+      Summer_1855: -1444178546
+      Summer_1856: 2096613076
+      Summer_1857: 487646072
+      Summer_1858: 1821709965
+      Summer_1859: 889203128
+      Summer_186: 1051171151
+      Summer_1860: 1589269716
+      Summer_1861: 247392735
+      Summer_1862: -824300002
+      Summer_1863: 1633294770
+      Summer_1864: -978903380
+      Summer_1865: 877648593
+      Summer_1866: -631069916
+      Summer_1867: -1985100829
+      Summer_1868: 1857149846
+      Summer_1869: -432974187
+      Summer_187: -675640283
+      Summer_1870: -1916497296
+      Summer_1871: 802545458
+      Summer_1872: 1697846150
+      Summer_1873: -429861091
+      Summer_1874: 1402456802
+      Summer_1875: -1077337056
+      Summer_1876: 498732522
+      Summer_1877: 1036244980
+      Summer_1878: -1277922268
+      Summer_1879: 1679460433
+      Summer_188: -1737506962
+      Summer_1880: 1591372609
+      Summer_1881: -13415014
+      Summer_1882: -22667815
+      Summer_1883: 621908925
+      Summer_1884: -788250776
+      Summer_1885: -1509977870
+      Summer_1886: 123690625
+      Summer_1887: -246251524
+      Summer_1888: 685171352
+      Summer_1889: 582917789
+      Summer_189: -1802741511
+      Summer_1890: -1338730022
+      Summer_1891: 830433299
+      Summer_1892: 724301480
+      Summer_1893: 1136467407
+      Summer_1894: 1655549536
+      Summer_1895: 650044579
+      Summer_1896: -119225822
+      Summer_1897: -1640647738
+      Summer_1898: 887305702
+      Summer_1899: 1725653406
+      Summer_19: 2005002078
+      Summer_190: -1591001692
+      Summer_1900: -2063457231
+      Summer_1901: -1729320716
+      Summer_1902: -628618563
+      Summer_1903: -1540562703
+      Summer_1904: -709909464
+      Summer_1905: 2118634479
+      Summer_1906: -386016683
+      Summer_1907: -752272050
+      Summer_1908: 915051862
+      Summer_1909: 909811663
+      Summer_191: -1735911981
+      Summer_1910: 1332570420
+      Summer_1911: -1500833088
+      Summer_1912: 73767049
+      Summer_1913: 1062929791
+      Summer_1914: 1403648233
+      Summer_1915: -654573928
+      Summer_1916: 795943239
+      Summer_1917: -402685775
+      Summer_1918: -1493090804
+      Summer_1919: -603340904
+      Summer_192: -128798663
+      Summer_1920: 270359691
+      Summer_1921: -199215126
+      Summer_1922: 1541234085
+      Summer_1923: 627860856
+      Summer_1924: 1478229658
+      Summer_1925: -2147010458
+      Summer_1926: -954468595
+      Summer_1927: -700247614
+      Summer_1928: -583213582
+      Summer_1929: -956471329
+      Summer_193: -727148863
+      Summer_1930: -2145105661
+      Summer_1931: 378959963
+      Summer_1932: -1059559002
+      Summer_1933: -1962884870
+      Summer_1934: -1487669031
+      Summer_1935: -1583082811
+      Summer_1936: 1464400729
+      Summer_1937: -465003697
+      Summer_1938: -156194784
+      Summer_1939: -1920764841
+      Summer_194: -77013250
+      Summer_1940: 1873347974
+      Summer_1941: -129566402
+      Summer_1942: -639355031
+      Summer_1943: 1848639931
+      Summer_1944: -2112440836
+      Summer_1945: -1925305201
+      Summer_1946: -1907779016
+      Summer_1947: 544230122
+      Summer_1948: 1610179025
+      Summer_1949: -1859590355
+      Summer_195: 1875303144
+      Summer_1950: -1864084601
+      Summer_1951: -857309453
+      Summer_1952: -548616004
+      Summer_1953: 1189655214
+      Summer_1954: -857465305
+      Summer_1955: -643276400
+      Summer_1956: 1152216284
+      Summer_1957: -1860808749
+      Summer_1958: 180349563
+      Summer_1959: -1031085912
+      Summer_196: 1058293652
+      Summer_1960: 354357134
+      Summer_1961: 525767428
+      Summer_1962: -1392328039
+      Summer_1963: -1346287197
+      Summer_1964: 44813382
+      Summer_1965: 823603364
+      Summer_1966: 2145194357
+      Summer_1967: -148133724
+      Summer_1968: -609721483
+      Summer_1969: -526676816
+      Summer_197: -978024808
+      Summer_1970: -218057231
+      Summer_1971: -1794504629
+      Summer_1972: -1733569342
+      Summer_1973: 653093080
+      Summer_198: -2039586865
+      Summer_199: 293092239
+      Summer_2: -960561083
+      Summer_20: 340301347
+      Summer_200: -1404002010
+      Summer_201: -1559839061
+      Summer_202: 1051751507
+      Summer_203: -1639624588
+      Summer_204: 1699748465
+      Summer_205: 1872284953
+      Summer_206: 1360645824
+      Summer_207: -19392403
+      Summer_208: -987559380
+      Summer_209: 329386746
+      Summer_21: -65966836
+      Summer_210: 1168991241
+      Summer_211: -839551881
+      Summer_212: 1829184247
+      Summer_213: -1735640759
+      Summer_214: 773218376
+      Summer_215: 2002274863
+      Summer_216: 1861154884
+      Summer_217: 766654877
+      Summer_218: 1486208677
+      Summer_219: 319242446
+      Summer_22: 318904152
+      Summer_220: -967912412
+      Summer_221: -1377108168
+      Summer_222: 1717569518
+      Summer_223: -1307133065
+      Summer_224: -852415763
+      Summer_225: -2025385214
+      Summer_226: 807662652
+      Summer_227: 507047746
+      Summer_228: -1414646884
+      Summer_229: 2059271594
+      Summer_23: 836984205
+      Summer_230: -1445778421
+      Summer_231: 2017342462
+      Summer_232: -708657885
+      Summer_233: 901397521
+      Summer_234: 1261713167
+      Summer_235: 1292437890
+      Summer_236: -1890111799
+      Summer_237: 1586859770
+      Summer_238: 1482258761
+      Summer_239: 385563079
+      Summer_24: -1095018533
+      Summer_240: 1024427817
+      Summer_241: -935541803
+      Summer_242: -2074807710
+      Summer_243: 935993141
+      Summer_244: 1159689308
+      Summer_245: 1027761438
+      Summer_246: 549000534
+      Summer_247: 1962347710
+      Summer_248: 306475703
+      Summer_249: -675243094
+      Summer_25: 958901101
+      Summer_250: 1983341042
+      Summer_251: -1341648924
+      Summer_252: 791667097
+      Summer_253: 1195516990
+      Summer_254: 641428992
+      Summer_255: 349262592
+      Summer_256: 645809814
+      Summer_257: 1521583787
+      Summer_258: -1679842151
+      Summer_259: -1377957033
+      Summer_26: 1482227957
+      Summer_260: 957009349
+      Summer_261: 1601906069
+      Summer_262: -494894912
+      Summer_263: 1380133237
+      Summer_264: -1738887243
+      Summer_265: -1769945503
+      Summer_266: -647196290
+      Summer_267: -757009855
+      Summer_268: -1069605408
+      Summer_269: 389595536
+      Summer_27: 1776884181
+      Summer_270: 1145297670
+      Summer_271: -1494657149
+      Summer_272: -1905709490
+      Summer_273: -1165734362
+      Summer_274: -1249466535
+      Summer_275: -290542925
+      Summer_276: 1103602339
+      Summer_277: -1000881632
+      Summer_278: 1297930663
+      Summer_279: -567230492
+      Summer_28: -1863478100
+      Summer_280: 2012570026
+      Summer_281: -379299599
+      Summer_282: -274172069
+      Summer_283: -2005314752
+      Summer_284: -793835201
+      Summer_285: 840853010
+      Summer_286: -1627376242
+      Summer_287: -158192164
+      Summer_288: -407963644
+      Summer_289: -1989107686
+      Summer_29: -753579982
+      Summer_290: 1133737717
+      Summer_291: 359616924
+      Summer_292: -1856736684
+      Summer_293: -1816858374
+      Summer_294: -1763896532
+      Summer_295: 475968616
+      Summer_296: 1222947635
+      Summer_297: -1969736799
+      Summer_298: -518569129
+      Summer_299: 440139462
+      Summer_3: 1384978272
+      Summer_30: 373686590
+      Summer_300: 1499052037
+      Summer_301: -1378535993
+      Summer_302: 1198761576
+      Summer_303: 764477930
+      Summer_304: -165097527
+      Summer_305: 1970072190
+      Summer_306: -983715017
+      Summer_307: 1217124919
+      Summer_308: -27065869
+      Summer_309: 1109991129
+      Summer_31: 1247666922
+      Summer_310: -161643193
+      Summer_311: 874194480
+      Summer_312: 274750466
+      Summer_313: -580180719
+      Summer_314: 2057897489
+      Summer_315: -819507001
+      Summer_316: 157742338
+      Summer_317: -668248967
+      Summer_318: -1734366615
+      Summer_319: -845055642
+      Summer_32: -1773553974
+      Summer_320: 1504057304
+      Summer_321: 1159156927
+      Summer_322: 1161035899
+      Summer_323: -517889443
+      Summer_324: 336339293
+      Summer_325: -897520324
+      Summer_326: 677283373
+      Summer_327: -38237858
+      Summer_328: 79386867
+      Summer_329: 228057230
+      Summer_33: 2085016082
+      Summer_330: 2014153855
+      Summer_331: -399743554
+      Summer_332: 33476581
+      Summer_333: -810131353
+      Summer_334: 946547211
+      Summer_335: -91367296
+      Summer_336: 1973936549
+      Summer_337: -2002872677
+      Summer_338: 1552918020
+      Summer_339: 1467999414
+      Summer_34: 1985900932
+      Summer_340: 1078999361
+      Summer_341: 1037871756
+      Summer_342: -222012681
+      Summer_343: 1549589318
+      Summer_344: -182405308
+      Summer_345: 95346871
+      Summer_346: 726092938
+      Summer_347: 1830452561
+      Summer_348: 1989195298
+      Summer_349: 303526827
+      Summer_35: 486349960
+      Summer_350: -1674292383
+      Summer_351: 1473801990
+      Summer_352: -157955343
+      Summer_353: 370706348
+      Summer_354: 2055014764
+      Summer_355: 698187235
+      Summer_356: 66274230
+      Summer_357: -417529629
+      Summer_358: -364436748
+      Summer_359: -183022987
+      Summer_36: -387109762
+      Summer_360: -363419279
+      Summer_361: 1691732948
+      Summer_362: -1619815752
+      Summer_363: 1433990521
+      Summer_364: 1774652885
+      Summer_365: 844839578
+      Summer_366: 1055802570
+      Summer_367: -123439927
+      Summer_368: 1294349991
+      Summer_369: 2009856939
+      Summer_37: 502220737
+      Summer_370: -698650149
+      Summer_371: 1685080886
+      Summer_372: -1320559322
+      Summer_373: -661016956
+      Summer_374: 955307420
+      Summer_375: 133113683
+      Summer_376: 1243377922
+      Summer_377: -1319229564
+      Summer_378: 272224262
+      Summer_379: -208656935
+      Summer_38: 1769258772
+      Summer_380: -1363983359
+      Summer_381: 1538921826
+      Summer_382: -1511169451
+      Summer_383: 1639461032
+      Summer_384: -1486127121
+      Summer_385: 282558745
+      Summer_386: -171142493
+      Summer_387: -2068981755
+      Summer_388: -1794462482
+      Summer_389: 1181017020
+      Summer_39: -1312026102
+      Summer_390: 393487899
+      Summer_391: 416582424
+      Summer_392: 32894630
+      Summer_393: -1773647261
+      Summer_394: 41620172
+      Summer_395: -1344795930
+      Summer_396: 297533725
+      Summer_397: 1595349684
+      Summer_398: -1193053712
+      Summer_399: -1698063273
+      Summer_4: -427856592
+      Summer_40: 538281045
+      Summer_400: -1849612004
+      Summer_401: -412817152
+      Summer_402: 1097433199
+      Summer_403: -1617313160
+      Summer_404: -1145523048
+      Summer_405: -199030422
+      Summer_406: 1722868173
+      Summer_407: 1636881227
+      Summer_408: -239902411
+      Summer_409: 900737871
+      Summer_41: -1486835650
+      Summer_410: 1192927125
+      Summer_411: 198134572
+      Summer_412: 975462591
+      Summer_413: -1856734717
+      Summer_414: 773688039
+      Summer_415: -1152471010
+      Summer_416: -1917171343
+      Summer_417: 397596114
+      Summer_418: 1422504026
+      Summer_419: -767528857
+      Summer_42: -124084370
+      Summer_420: 1552930502
+      Summer_421: -215526275
+      Summer_422: -1405677953
+      Summer_423: -255926933
+      Summer_424: -1494704006
+      Summer_425: 435892013
+      Summer_426: 6731913
+      Summer_427: 21461818
+      Summer_428: 1575678756
+      Summer_429: -667249356
+      Summer_43: 1017706327
+      Summer_430: 1401063644
+      Summer_431: -1079073907
+      Summer_432: 555296041
+      Summer_433: 948596811
+      Summer_434: 1584057107
+      Summer_435: -1511697856
+      Summer_436: 548733090
+      Summer_437: -1830425216
+      Summer_438: -977248095
+      Summer_439: 2144983269
+      Summer_44: 1103363526
+      Summer_440: 338612130
+      Summer_441: 305967841
+      Summer_442: -805864916
+      Summer_443: 1321260946
+      Summer_444: -152697080
+      Summer_445: -1262353265
+      Summer_446: 1426601161
+      Summer_447: 1899763303
+      Summer_448: 1057288973
+      Summer_449: 852551767
+      Summer_45: -1262212577
+      Summer_450: -1718702637
+      Summer_451: -856116536
+      Summer_452: -1475523151
+      Summer_453: 2068596413
+      Summer_454: 1680765477
+      Summer_455: 436566833
+      Summer_456: -1961592210
+      Summer_457: -471587366
+      Summer_458: 2056098347
+      Summer_459: 549200516
+      Summer_46: -2054088981
+      Summer_460: -1556344902
+      Summer_461: -578852195
+      Summer_462: -26519147
+      Summer_463: -121319836
+      Summer_464: -221436731
+      Summer_465: 1302147130
+      Summer_466: -1913495012
+      Summer_467: -1576989824
+      Summer_468: -47408828
+      Summer_469: -1691845692
+      Summer_47: 269215025
+      Summer_470: -761031424
+      Summer_471: -670106756
+      Summer_472: 814545852
+      Summer_473: -1278855696
+      Summer_474: -1007888481
+      Summer_475: 1820278394
+      Summer_476: -1598323616
+      Summer_477: 1107609266
+      Summer_478: -1336858906
+      Summer_479: 1330077659
+      Summer_48: -1215235176
+      Summer_480: 11118978
+      Summer_481: -1524274757
+      Summer_482: 1883262934
+      Summer_483: 986632500
+      Summer_484: 911833554
+      Summer_485: 1878371225
+      Summer_486: 670750939
+      Summer_487: 1569875640
+      Summer_488: -1802431537
+      Summer_489: 1010518126
+      Summer_49: -1626180938
+      Summer_490: -1463206500
+      Summer_491: 2124179735
+      Summer_492: 873258587
+      Summer_493: 1609985789
+      Summer_494: 676682005
+      Summer_495: 1118880969
+      Summer_496: -531682024
+      Summer_497: 1734501920
+      Summer_498: 1209817296
+      Summer_499: -1164001009
+      Summer_5: 1812288464
+      Summer_50: 602514694
+      Summer_500: -1838377490
+      Summer_501: -236845792
+      Summer_502: 2109426020
+      Summer_503: 729063644
+      Summer_504: 1323728273
+      Summer_505: 1789085970
+      Summer_506: 921090578
+      Summer_507: -526250054
+      Summer_508: 1902067378
+      Summer_509: -521863583
+      Summer_51: 1613725568
+      Summer_510: -84035864
+      Summer_511: -865372093
+      Summer_512: -1444406060
+      Summer_513: 1176202567
+      Summer_514: -2058968771
+      Summer_515: -1572267209
+      Summer_516: -7689688
+      Summer_517: -1563854505
+      Summer_518: -2068353476
+      Summer_519: -325159360
+      Summer_52: 1745480111
+      Summer_520: 1864066735
+      Summer_521: 1727230529
+      Summer_522: 1692474023
+      Summer_523: 1846202265
+      Summer_524: -1744255151
+      Summer_525: -1052625003
+      Summer_526: 1410985561
+      Summer_527: 1685505411
+      Summer_528: -546647141
+      Summer_529: 916444515
+      Summer_53: 260111363
+      Summer_530: 1802818293
+      Summer_531: -21802199
+      Summer_532: 1016059971
+      Summer_533: -1779178278
+      Summer_534: 1109378210
+      Summer_535: 1630782176
+      Summer_536: -879096191
+      Summer_537: 1813479184
+      Summer_538: -167927895
+      Summer_539: -1609303506
+      Summer_54: 569275503
+      Summer_540: 321093106
+      Summer_541: -1646508068
+      Summer_542: -1389865295
+      Summer_543: 1668739766
+      Summer_544: 1224191467
+      Summer_545: 993977438
+      Summer_546: 785182994
+      Summer_547: 557025532
+      Summer_548: -1046715402
+      Summer_549: 1748864154
+      Summer_55: 1992728790
+      Summer_550: -1733648243
+      Summer_551: -1531054094
+      Summer_552: -943692949
+      Summer_553: -870851972
+      Summer_554: 1762919437
+      Summer_555: -120421956
+      Summer_556: 1366656442
+      Summer_557: 2041846573
+      Summer_558: -768374795
+      Summer_559: 2085425511
+      Summer_56: 1390448379
+      Summer_560: -1846000727
+      Summer_561: 503050411
+      Summer_562: 95728612
+      Summer_563: -1062119563
+      Summer_564: -309905608
+      Summer_565: -1001547625
+      Summer_566: 1986471918
+      Summer_567: 1629746825
+      Summer_568: 68484135
+      Summer_569: 644725841
+      Summer_57: -1259176787
+      Summer_570: 1179176372
+      Summer_571: -2024533259
+      Summer_572: -1194451307
+      Summer_573: 1712473287
+      Summer_574: 573194486
+      Summer_575: -1762146647
+      Summer_576: -1342111494
+      Summer_577: -648965519
+      Summer_578: 250840321
+      Summer_579: -727713548
+      Summer_58: -729945274
+      Summer_580: 1248643349
+      Summer_581: -1906955347
+      Summer_582: -210642639
+      Summer_583: 1660888115
+      Summer_584: -492634524
+      Summer_585: 723317008
+      Summer_586: 804600317
+      Summer_587: 1325833704
+      Summer_588: -529473447
+      Summer_589: 956771299
+      Summer_59: 1441191775
+      Summer_590: -1748157973
+      Summer_591: 1363769222
+      Summer_592: -1521858948
+      Summer_593: 600618273
+      Summer_594: 1764759237
+      Summer_595: 1202855944
+      Summer_596: 1446665192
+      Summer_597: 1845441141
+      Summer_598: -1594494667
+      Summer_599: -202284636
+      Summer_6: 1454583982
+      Summer_60: -641063208
+      Summer_600: 1315744826
+      Summer_601: -1167073533
+      Summer_602: -24544299
+      Summer_603: -1351375844
+      Summer_604: 853102591
+      Summer_605: -56179113
+      Summer_606: -55407108
+      Summer_607: 1420119862
+      Summer_608: -162397676
+      Summer_609: -306180850
+      Summer_61: 1621200761
+      Summer_610: -563118396
+      Summer_611: 830162170
+      Summer_612: 1250117749
+      Summer_613: 359653226
+      Summer_614: -1799186689
+      Summer_615: -939502093
+      Summer_616: 199094930
+      Summer_617: -1011725431
+      Summer_618: -440935521
+      Summer_619: -665719862
+      Summer_62: -360985720
+      Summer_620: -968608824
+      Summer_621: -1680112526
+      Summer_622: -1884761810
+      Summer_623: 1394503865
+      Summer_624: 1912012153
+      Summer_625: 953441947
+      Summer_626: 1178103917
+      Summer_627: 1243061089
+      Summer_628: -999138986
+      Summer_629: -1869562276
+      Summer_63: 1676226384
+      Summer_630: -197046101
+      Summer_631: 1376979992
+      Summer_632: 1944579923
+      Summer_633: 1495462126
+      Summer_634: 1879560984
+      Summer_635: -857391678
+      Summer_636: 829418110
+      Summer_637: -1312479320
+      Summer_638: 1094269175
+      Summer_639: 67837815
+      Summer_64: -1458869801
+      Summer_640: 1489577221
+      Summer_641: 387481043
+      Summer_642: 733280014
+      Summer_643: 1385854485
+      Summer_644: 774461835
+      Summer_645: 1532273578
+      Summer_646: -1921938376
+      Summer_647: 1532670538
+      Summer_648: 1879553737
+      Summer_649: -526223073
+      Summer_65: -579873214
+      Summer_650: 1579686741
+      Summer_651: -2007081944
+      Summer_652: 1673946957
+      Summer_653: 1751219071
+      Summer_654: 3662791
+      Summer_655: -350657359
+      Summer_656: 1551624619
+      Summer_657: 461909943
+      Summer_658: -1490696321
+      Summer_659: -1117880502
+      Summer_66: -41920873
+      Summer_660: 941621454
+      Summer_661: -37464429
+      Summer_662: -1712885557
+      Summer_663: 1098220538
+      Summer_664: 1325239037
+      Summer_665: 766793090
+      Summer_666: -1084565642
+      Summer_667: 850021249
+      Summer_668: -493754434
+      Summer_669: 1021986993
+      Summer_67: -2083246760
+      Summer_670: -446461670
+      Summer_671: 1961061952
+      Summer_672: -1154556288
+      Summer_673: -1119155033
+      Summer_674: -401187601
+      Summer_675: 1721886404
+      Summer_676: 1275041857
+      Summer_677: 1128238651
+      Summer_678: -1395834794
+      Summer_679: -1603405214
+      Summer_68: 1407348534
+      Summer_680: -92618657
+      Summer_681: 1712717931
+      Summer_682: -1768204688
+      Summer_683: -866265052
+      Summer_684: 582923118
+      Summer_685: -196036534
+      Summer_687: 616632503
+      Summer_688: 2072740556
+      Summer_689: 339757050
+      Summer_69: 1121778660
+      Summer_690: -278390547
+      Summer_691: 271358739
+      Summer_692: -1706699885
+      Summer_693: -955584312
+      Summer_694: -902553339
+      Summer_695: -54256659
+      Summer_696: -133066194
+      Summer_697: -1713965025
+      Summer_698: -1966334484
+      Summer_699: 671931069
+      Summer_7: 1468822220
+      Summer_70: 1781504688
+      Summer_700: -533211313
+      Summer_701: -837184544
+      Summer_702: 1349690431
+      Summer_703: -1878449491
+      Summer_704: -24050040
+      Summer_705: -569282837
+      Summer_706: -67306849
+      Summer_707: -992916693
+      Summer_708: 226035636
+      Summer_709: -1764853204
+      Summer_71: 814505747
+      Summer_710: -1896548622
+      Summer_711: -2059785400
+      Summer_712: 1476193067
+      Summer_713: 1080100410
+      Summer_714: -1357654749
+      Summer_715: -202290435
+      Summer_716: -750795906
+      Summer_717: -239382467
+      Summer_718: 718142937
+      Summer_719: -2056653970
+      Summer_72: -151517618
+      Summer_720: 1965685442
+      Summer_721: 1912824327
+      Summer_722: 1713732900
+      Summer_723: 266385452
+      Summer_724: -59500965
+      Summer_725: 286929370
+      Summer_726: 703826419
+      Summer_727: 820223799
+      Summer_728: 1698361665
+      Summer_729: 1160099189
+      Summer_73: -1225865354
+      Summer_730: 1979183271
+      Summer_731: 1041301851
+      Summer_732: 609326701
+      Summer_733: -1378093836
+      Summer_734: 285360631
+      Summer_735: -965154746
+      Summer_736: -1927653811
+      Summer_737: -572478264
+      Summer_738: -1461329651
+      Summer_739: 1900488063
+      Summer_74: 1170449750
+      Summer_740: 557839931
+      Summer_741: 1202705158
+      Summer_742: 1670688134
+      Summer_743: 1420317804
+      Summer_744: -145211476
+      Summer_745: 950025889
+      Summer_746: 1797472386
+      Summer_747: 1459536512
+      Summer_748: 1667785332
+      Summer_749: -440483504
+      Summer_75: -1762728743
+      Summer_750: 688376005
+      Summer_751: -744732935
+      Summer_752: -1469857950
+      Summer_753: -1543319765
+      Summer_754: 451432098
+      Summer_755: 1869885070
+      Summer_756: 486126642
+      Summer_757: -1118576583
+      Summer_758: -814193221
+      Summer_759: 1281265738
+      Summer_76: -1133534320
+      Summer_760: -1091313114
+      Summer_761: 1092608148
+      Summer_762: -49513730
+      Summer_763: 1439704242
+      Summer_764: -304946921
+      Summer_765: 1855077105
+      Summer_766: 2110005473
+      Summer_767: -908934683
+      Summer_768: 1463627497
+      Summer_769: -1180595358
+      Summer_77: 1771107643
+      Summer_770: 1274365684
+      Summer_771: 1302582510
+      Summer_772: -542954904
+      Summer_773: 1222063358
+      Summer_774: -234209766
+      Summer_775: -886863053
+      Summer_776: -971154907
+      Summer_777: 406517816
+      Summer_778: 1107267602
+      Summer_779: 509709248
+      Summer_78: -578438126
+      Summer_780: 1812265992
+      Summer_781: -1966142001
+      Summer_782: -187191296
+      Summer_783: -16740768
+      Summer_784: 708613285
+      Summer_785: 224393159
+      Summer_786: -718429876
+      Summer_787: 1083270480
+      Summer_788: 858517840
+      Summer_789: -1073071247
+      Summer_79: 1821798636
+      Summer_790: -888236710
+      Summer_791: -172846291
+      Summer_792: -1665792374
+      Summer_793: 1554779672
+      Summer_794: 1568921531
+      Summer_8: 2079646037
+      Summer_80: -1514104789
+      Summer_801: 699186458
+      Summer_802: -1725230660
+      Summer_803: -467458343
+      Summer_804: -506506536
+      Summer_805: -1372924341
+      Summer_806: -1048650417
+      Summer_807: -190126462
+      Summer_808: 1153265711
+      Summer_809: -1802890459
+      Summer_81: 213537506
+      Summer_810: 1203623528
+      Summer_811: -1890781342
+      Summer_812: 1701168010
+      Summer_813: -336016478
+      Summer_814: 1239777321
+      Summer_815: -120301876
+      Summer_816: 1774124019
+      Summer_817: -676667826
+      Summer_818: 1467548583
+      Summer_819: 897555042
+      Summer_82: -1100315311
+      Summer_820: -399740159
+      Summer_821: 396453463
+      Summer_822: 1180995015
+      Summer_823: 1784401950
+      Summer_824: -1684992249
+      Summer_83: -184011300
+      Summer_831: -399013784
+      Summer_832: -411098922
+      Summer_833: 938644396
+      Summer_834: -277979264
+      Summer_835: 2004153072
+      Summer_836: 866303550
+      Summer_837: 817223045
+      Summer_838: -1551396624
+      Summer_839: -1391184619
+      Summer_84: -46246636
+      Summer_840: 1268855008
+      Summer_841: -2091365904
+      Summer_842: -1321057290
+      Summer_843: 1486938264
+      Summer_844: 1771124883
+      Summer_845: 1619265688
+      Summer_846: 1488393368
+      Summer_847: -978503942
+      Summer_848: 1092359238
+      Summer_849: -921555869
+      Summer_85: 1812968313
+      Summer_850: -121011089
+      Summer_851: 590912611
+      Summer_852: 1866779712
+      Summer_853: -1792423676
+      Summer_86: 144202285
+      Summer_860: -171566776
+      Summer_861: -1362580309
+      Summer_862: 791437524
+      Summer_863: 950943097
+      Summer_864: -45300905
+      Summer_865: -1908093918
+      Summer_866: -614842325
+      Summer_867: -1846760865
+      Summer_868: 2012743422
+      Summer_869: -1605973050
+      Summer_87: -451370834
+      Summer_870: -1691032264
+      Summer_871: -2083942934
+      Summer_872: -912140169
+      Summer_873: 289814824
+      Summer_874: 942128630
+      Summer_875: -257810285
+      Summer_876: 1074274564
+      Summer_877: -1605403130
+      Summer_878: 1732168029
+      Summer_879: 1464582822
+      Summer_88: 1518027430
+      Summer_880: -282404072
+      Summer_881: 61550563
+      Summer_882: -643482934
+      Summer_883: 440707034
+      Summer_884: 1144982649
+      Summer_885: -2146863639
+      Summer_89: 1025368481
+      Summer_892: -406927839
+      Summer_893: -358653265
+      Summer_894: -1894041257
+      Summer_895: 847414800
+      Summer_896: 11276839
+      Summer_897: -732407004
+      Summer_898: 1772911009
+      Summer_899: 4455942
+      Summer_9: -820297200
+      Summer_90: -1160583977
+      Summer_900: -716640952
+      Summer_901: 129372804
+      Summer_902: 1188908782
+      Summer_903: -213494065
+      Summer_904: -716133473
+      Summer_905: 1494947213
+      Summer_906: 977626566
+      Summer_907: 1043940023
+      Summer_908: -1650886358
+      Summer_909: 2055272811
+      Summer_91: 210188322
+      Summer_910: -2119063176
+      Summer_911: -1084299925
+      Summer_912: 730179943
+      Summer_913: -906383082
+      Summer_92: 1458545083
+      Summer_920: 1416878136
+      Summer_921: 1482112354
+      Summer_922: -1699289928
+      Summer_923: 1270942793
+      Summer_924: 195559505
+      Summer_925: -94299357
+      Summer_926: -2108688766
+      Summer_927: 994409706
+      Summer_928: -1506315378
+      Summer_929: -522122632
+      Summer_93: 1547904272
+      Summer_930: -974782333
+      Summer_931: 2082730840
+      Summer_932: 1751076111
+      Summer_933: 1733403873
+      Summer_934: -1558515773
+      Summer_935: 2109515020
+      Summer_936: 371680136
+      Summer_937: 1134137485
+      Summer_938: -822449771
+      Summer_939: -16771072
+      Summer_94: 1856326901
+      Summer_940: 93136304
+      Summer_941: -1865476245
+      Summer_948: -2054427032
+      Summer_949: -576155026
+      Summer_95: -1096553501
+      Summer_950: -860324756
+      Summer_951: -1808384827
+      Summer_952: -1888346939
+      Summer_953: 531479194
+      Summer_954: -64367393
+      Summer_955: 1050876482
+      Summer_956: -621712705
+      Summer_957: -1644450691
+      Summer_958: 937718844
+      Summer_959: 465478184
+      Summer_96: -1024865782
+      Summer_960: -1266260745
+      Summer_961: -157965380
+      Summer_962: 2111706055
+      Summer_963: -1139644686
+      Summer_964: 1549894666
+      Summer_965: 252164378
+      Summer_966: 393459980
+      Summer_967: 1725787399
+      Summer_968: 154144344
+      Summer_969: 2087039513
+      Summer_97: 1612884016
+      Summer_970: 1882565055
+      Summer_971: 1889163432
+      Summer_972: 999850750
+      Summer_973: -803336610
+      Summer_974: 714306464
+      Summer_975: -1261854879
+      Summer_976: 831654992
+      Summer_977: -1514305226
+      Summer_978: -268960101
+      Summer_979: 2066015469
+      Summer_98: -352695509
+      Summer_980: 419092693
+      Summer_981: 68346203
+      Summer_982: -1238987391
+      Summer_983: 1925696366
+      Summer_984: 1355186564
+      Summer_985: -1875662996
+      Summer_986: 419066727
+      Summer_987: 165014639
+      Summer_988: 384147487
+      Summer_989: -2051032292
+      Summer_99: 1930974732
+      Summer_990: -370510049
+      Summer_991: -768590533
+      Summer_992: -788410969
+      Summer_993: -497342444
+      Summer_994: 1353519218
+      Summer_995: 1538470769
+      Summer_996: 1830697617
+      Summer_997: -668323986
+      Summer_998: 316761831
+      Summer_999: -1584104467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
